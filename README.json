@@ -1,0 +1,117 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "AI Assistants"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Color Scheme"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Command Execution"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Completion"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Editing"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "File Management"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Fuzzy Finding"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Games"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Guides"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Integrations"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Language Server Protocol"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Libraries"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Markdown"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Miscellaneous"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Motion"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Plugin Management"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Quickfix"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Statusline"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "UI"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Vim Internal"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Vimrc"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:15:19.097Z",
+    "original_repository": "saccarosium/awesome-vim9",
+    "original_repository_sha": "228c0d69405bc538442f31b06731fa9fa234885b",
+    "enhanced_repository": "enhansome/enhansome-vim9",
+    "enhanced_repository_description": null,
+    "title": "Awesome-Vim9 with stars"
+  }
+}
