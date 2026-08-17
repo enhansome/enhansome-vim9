@@ -143,7 +143,7 @@ To submit a new plugin read [CONTRIBUTING.md](./CONTRIBUTING.md) first.
 | [habamax/vim-curl](https://github.com/habamax/vim-curl) ⭐ 6 \| 🐛 1 \| 🌐 Vim Script \| 📅 2026-07-03                             | Simple curl wrapper for vim to work with REST API                          | ⭐6   |
 | [ubaldot/vim-git-box](https://github.com/ubaldot/vim-git-box) ⭐ 2 \| 🐛 1 \| 🌐 Vim Script \| 📅 2026-07-23                       | A tiny Vim plugin for everyday git operations, inspired by lazygit         | ⭐2   |
 | [habamax/vim-ii](https://github.com/habamax/vim-ii) ⭐ 13 \| 🐛 4 \| 🌐 Vim Script \| 📅 2025-06-17                                | IRC with suckless Irc it (ii) and vim                                      | ⭐13  |
-| [bfrg/vim-jqplay](https://github.com/bfrg/vim-jqplay) ⭐ 123 \| 🐛 2 \| 🌐 Vim Script \| 📅 2024-03-05                             | Run jq interactively in Vim                                                | ⭐123 |
+| [bfrg/vim-jqplay](https://github.com/bfrg/vim-jqplay) ⭐ 124 \| 🐛 2 \| 🌐 Vim Script \| 📅 2024-03-05                             | Run jq interactively in Vim                                                | ⭐123 |
 | [ubaldot/vim-manim](https://github.com/ubaldot/vim-manim) ⭐ 6 \| 🐛 2 \| 🌐 Vim Script \| 📅 2025-08-25                           | Render your manim-ations from Vim.                                         | ⭐6   |
 | [ubaldot/vim-microdebugger](https://github.com/ubaldot/vim-microdebugger) ⭐ 6 \| 🐛 3 \| 🌐 Vim Script \| 📅 2025-08-25           | A tiny plugin on top of Termdebug for remote debugging (docker, MCUs, etc) | ⭐6   |
 | [ubaldot/vim-replica](https://github.com/ubaldot/vim-replica) ⭐ 32 \| 🐛 2 \| 🌐 Vim Script \| 📅 2026-07-31                      | The ultimate REPL!                                                         | ⭐31  |
@@ -154,7 +154,7 @@ To submit a new plugin read [CONTRIBUTING.md](./CONTRIBUTING.md) first.
 |                                                                                                                            |                                                                  |      |
 | -------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------- | ---- |
 | [DanielViberg/lsp](https://github.com/DanielViberg/lsp) ⭐ 2 \| 🐛 2 \| 🌐 Vim Script \| 📅 2026-08-02                      | A lightweight, pure vim9script lsp client                        | ⭐2   |
-| [yegappan/lsp](https://github.com/yegappan/lsp/tree/main) ⭐ 760 \| 🐛 115 \| 🌐 Vim Script \| 📅 2026-08-11                | Language Server Protocol (LSP) plugin for Vim9                   | ⭐756 |
+| [yegappan/lsp](https://github.com/yegappan/lsp/tree/main) ⭐ 761 \| 🐛 111 \| 🌐 Vim Script \| 📅 2026-08-17                | Language Server Protocol (LSP) plugin for Vim9                   | ⭐756 |
 | [creativenull/vim-lspclient](https://github.com/creativenull/vim-lspclient) ⭐ 18 \| 🐛 0 \| 🌐 Vim Script \| 📅 2022-09-01 | A highly experimental lsp client for vim. Written in vim9script. | ⭐18  |
 | [saccarosium/yegappan-lsp-settings](https://github.com/saccarosium/yegappan-lsp-settings) ⚠️ Archived                      | Quickstart configs for yeggapan lsp client                       | ⭐4   |
 
@@ -219,7 +219,7 @@ To submit a new plugin read [CONTRIBUTING.md](./CONTRIBUTING.md) first.
 | ------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- | ------ |
 | [senioria/lines9](https://github.com/senioria/lines9) ⭐ 2 \| 🐛 0 \| 🌐 Vim Script \| 📅 2025-01-16                       | A statusline/tabline plugin written in vim9script                                                  | ⭐2     |
 | [Bakudankun/qline.vim](https://github.com/Bakudankun/qline.vim) ⭐ 44 \| 🐛 1 \| 🌐 Vim Script \| 📅 2025-10-12            | The quick, fully-customizable status line plugin written in cutting-edge Vim9 script.              | ⭐44    |
-| [vim-airline/vim-airline](https://github.com/vim-airline/vim-airline) ⭐ 17,962 \| 🐛 37 \| 🌐 Vim Script \| 📅 2026-07-25 | lean & mean status/tabline for vim that's light as air                                             | ⭐17965 |
+| [vim-airline/vim-airline](https://github.com/vim-airline/vim-airline) ⭐ 17,963 \| 🐛 37 \| 🌐 Vim Script \| 📅 2026-07-25 | lean & mean status/tabline for vim that's light as air                                             | ⭐17965 |
 | [kennypete/vim-tene](https://github.com/kennypete/vim-tene) ⭐ 17 \| 🐛 0 \| 🌐 Vim Script \| 📅 2025-01-07                | Vim 9 - teRNARY STATUSLIne                                                                         | ⭐17    |
 | [ShayHill/vim9-limelight](https://github.com/ShayHill/vim9-limelight) ⭐ 10 \| 🐛 0 \| 🌐 Vim Script \| 📅 2026-07-01      | Shade unfocused windows. Give a bright statusline color for active windows *when splits are open*. | ⭐10    |
 
@@ -244,21 +244,21 @@ To submit a new plugin read [CONTRIBUTING.md](./CONTRIBUTING.md) first.
 
 |                                                                                                                                                               |                       |         |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------- | ------- |
-| [vim/.../pack/.../cfilter](https://github.com/vim/vim/tree/master/runtime/pack/dist/opt/cfilter) ⭐ 40,739 \| 🐛 1,641 \| 🌐 Vim Script \| 📅 2026-08-15       | :h package-cfilter    | **N/A** |
-| [vim/.../pack/.../comment](https://github.com/vim/vim/tree/master/runtime/pack/dist/opt/comment/) ⭐ 40,739 \| 🐛 1,641 \| 🌐 Vim Script \| 📅 2026-08-15      | :h package-comment    | **N/A** |
-| [vim/.../pack/.../helpcurwin](https://github.com/vim/vim/tree/master/runtime/pack/dist/opt/helpcurwin) ⭐ 40,739 \| 🐛 1,641 \| 🌐 Vim Script \| 📅 2026-08-15 | :h package-helpcurwin | **N/A** |
-| [vim/.../pack/.../helptoc](https://github.com/vim/vim/tree/master/runtime/pack/dist/opt/helptoc) ⭐ 40,739 \| 🐛 1,641 \| 🌐 Vim Script \| 📅 2026-08-15       | :h package-helptoc    | **N/A** |
-| [vim/.../pack/.../hlyank](https://github.com/vim/vim/tree/master/runtime/pack/dist/opt/hlyank/) ⭐ 40,739 \| 🐛 1,641 \| 🌐 Vim Script \| 📅 2026-08-15        | :h package-hlyank     | **N/A** |
-| [vim/.../pack/.../osc52](https://github.com/vim/vim/tree/master/runtime/pack/dist/opt/osc52) ⭐ 40,739 \| 🐛 1,641 \| 🌐 Vim Script \| 📅 2026-08-15           | :h package-osc52      | **N/A** |
-| [vim/.../pack/.../termdebug](https://github.com/vim/vim/tree/master/runtime/pack/dist/opt/termdebug) ⭐ 40,739 \| 🐛 1,641 \| 🌐 Vim Script \| 📅 2026-08-15   | :h package-termdebug  | **N/A** |
+| [vim/.../pack/.../cfilter](https://github.com/vim/vim/tree/master/runtime/pack/dist/opt/cfilter) ⭐ 40,740 \| 🐛 1,639 \| 🌐 Vim Script \| 📅 2026-08-16       | :h package-cfilter    | **N/A** |
+| [vim/.../pack/.../comment](https://github.com/vim/vim/tree/master/runtime/pack/dist/opt/comment/) ⭐ 40,740 \| 🐛 1,639 \| 🌐 Vim Script \| 📅 2026-08-16      | :h package-comment    | **N/A** |
+| [vim/.../pack/.../helpcurwin](https://github.com/vim/vim/tree/master/runtime/pack/dist/opt/helpcurwin) ⭐ 40,740 \| 🐛 1,639 \| 🌐 Vim Script \| 📅 2026-08-16 | :h package-helpcurwin | **N/A** |
+| [vim/.../pack/.../helptoc](https://github.com/vim/vim/tree/master/runtime/pack/dist/opt/helptoc) ⭐ 40,740 \| 🐛 1,639 \| 🌐 Vim Script \| 📅 2026-08-16       | :h package-helptoc    | **N/A** |
+| [vim/.../pack/.../hlyank](https://github.com/vim/vim/tree/master/runtime/pack/dist/opt/hlyank/) ⭐ 40,740 \| 🐛 1,639 \| 🌐 Vim Script \| 📅 2026-08-16        | :h package-hlyank     | **N/A** |
+| [vim/.../pack/.../osc52](https://github.com/vim/vim/tree/master/runtime/pack/dist/opt/osc52) ⭐ 40,740 \| 🐛 1,639 \| 🌐 Vim Script \| 📅 2026-08-16           | :h package-osc52      | **N/A** |
+| [vim/.../pack/.../termdebug](https://github.com/vim/vim/tree/master/runtime/pack/dist/opt/termdebug) ⭐ 40,740 \| 🐛 1,639 \| 🌐 Vim Script \| 📅 2026-08-16   | :h package-termdebug  | **N/A** |
 
 ## Vimrc
 
 |                                                                                                                      |                                                       |     |
 | -------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------- | --- |
-| [habamax/.vim](https://github.com/habamax/.vim) ⭐ 85 \| 🐛 0 \| 🌐 Vim Script \| 📅 2026-08-15                       | Personal .vim                                         | ⭐85 |
+| [habamax/.vim](https://github.com/habamax/.vim) ⭐ 85 \| 🐛 0 \| 🌐 Vim Script \| 📅 2026-08-17                       | Personal .vim                                         | ⭐85 |
 | [kennypete/.vimrc](https://github.com/kennypete/.vimrc) ⭐ 4 \| 🐛 0 \| 🌐 Vim Script \| 📅 2026-07-29                | My .vimrc                                             | ⭐4  |
-| [lacygoill/config](https://github.com/lacygoill/config/tree/main/.vim) ⭐ 0 \| 🐛 0 \| 🌐 Vim Script \| 📅 2026-08-09 | *No description provided.*                            | ⭐0  |
+| [lacygoill/config](https://github.com/lacygoill/config/tree/main/.vim) ⭐ 0 \| 🐛 0 \| 🌐 Vim Script \| 📅 2026-08-16 | *No description provided.*                            | ⭐0  |
 | [bennyyip/dot-vim](https://github.com/bennyyip/dot-vim) ⭐ 9 \| 🐛 0 \| 🌐 Vim Script \| 📅 2026-07-28                | *No description provided.*                            | ⭐9  |
 | [mao-yining/dotfile\_vim](https://codeberg.org/mao-yining/dotfile_vim)                                               | *No description provided.*                            | ⭐1  |
 | [64-bitman/vim-config](https://github.com/64-bitman/vim-config) ⭐ 2 \| 🐛 0 \| 🌐 Vim Script \| 📅 2026-07-23        | *No description provided.*                            | ⭐2  |
@@ -266,4 +266,4 @@ To submit a new plugin read [CONTRIBUTING.md](./CONTRIBUTING.md) first.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-17._
