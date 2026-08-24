@@ -1,10 +1,1835 @@
 {
-  "items": [],
+  "items": [
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "DanBradbury/copilot-chat.vim",
+          "description": "Copilot Chat for Vim ⭐134",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 948907116,
+            "language": "Vim Script",
+            "last_commit": "2026-01-17T15:44:30Z",
+            "owner": "DanBradbury",
+            "repo": "copilot-chat.vim",
+            "stars": 134
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "greeschenko/vim9-ollama",
+          "description": "Local driven AI assistent plugin written in the cutting-edge Vim9 script and powered by ollama ⭐14",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 766289370,
+            "language": "Vim Script",
+            "last_commit": "2026-03-14T20:41:25Z",
+            "owner": "greeschenko",
+            "repo": "vim9-ollama",
+            "stars": 14
+          }
+        }
+      ],
+      "title": "AI Assistants"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "zhixiao-zhang/vim-light-pink",
+          "description": "A vim color scheme reproduction of a vscode theme. ⭐0",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 737012609,
+            "language": "Vim Script",
+            "last_commit": "2025-02-11T09:33:59Z",
+            "owner": "zhixiao-zhang",
+            "repo": "vim-light-pink",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kratuvid/vim9-gruvbox",
+          "description": "A vim9script port of Gruvbox ⭐3",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 944573649,
+            "language": "Vim Script",
+            "last_commit": "2025-03-07T21:01:24Z",
+            "owner": "kratuvid",
+            "repo": "vim9-gruvbox",
+            "stars": 3
+          }
+        }
+      ],
+      "title": "Color Scheme"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "hahdookin/miniterm.vim",
+          "description": "Simple Vim9 toggle-terminal manager ⭐26",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 529409958,
+            "language": "Vim Script",
+            "last_commit": "2024-03-24T14:07:31Z",
+            "owner": "chrispane11",
+            "repo": "miniterm.vim",
+            "stars": 26
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "habamax/vim-shout",
+          "description": "Run and Capture Shell Command Output in Vim ⭐31",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 612102095,
+            "language": "Vim Script",
+            "last_commit": "2025-09-12T13:47:47Z",
+            "owner": "habamax",
+            "repo": "vim-shout",
+            "stars": 31
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ShayHill/vim9-scratchterm",
+          "description": "Define a command, ScratchTerm, that creates a new terminal buffer and marks it as a scratch buffer. This allows us to kill all scratch terminals in the current view with a single function. ⭐12",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 623640992,
+            "language": "Vim Script",
+            "last_commit": "2025-08-26T14:27:00Z",
+            "owner": "ShayHill",
+            "repo": "vim9-scratchterm",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sevehub/vim9lua",
+          "description": "This Vim9Script plugin allows users to execute the contents of the current buffer as a Lua script using Windows PowerShell. It provides a way to test and run Lua code directly from Vim, enhancing the development workflow for Lua programmers. ⭐0",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1038084410,
+            "language": "Vim Script",
+            "last_commit": "2025-08-18T17:51:56Z",
+            "owner": "sevehub",
+            "repo": "vim9lua",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Command Execution"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "jessepav/vim-camelcomplete",
+          "description": "Vim 9 plugin to complete CamelCase, snake_case and dash-words identifier abbreviations. ⭐4",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 587926663,
+            "language": "Vim Script",
+            "last_commit": "2025-05-20T17:52:24Z",
+            "owner": "jessepav",
+            "repo": "vim-camelcomplete",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mityu/vim-wispath",
+          "description": "A path completion script written in Vim9 script. ⭐6",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 419026830,
+            "language": "Vim Script",
+            "last_commit": "2024-12-24T14:44:18Z",
+            "owner": "mityu",
+            "repo": "vim-wispath",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "girishji/vimcomplete",
+          "description": "Async autocompletion for Vim. ⭐182",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 667003258,
+            "language": "Vim Script",
+            "last_commit": "2025-10-05T20:10:11Z",
+            "owner": "girishji",
+            "repo": "vimcomplete",
+            "stars": 182
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "girishji/vimsuggest",
+          "description": "Auto-completion for Vim's command-line. ⭐53",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 861606383,
+            "language": "Vim Script",
+            "last_commit": "2025-10-05T20:08:34Z",
+            "owner": "girishji",
+            "repo": "vimsuggest",
+            "stars": 53
+          }
+        }
+      ],
+      "title": "Completion"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Eliot00/auto-pairs",
+          "description": "Vim9 auto pairs plugin ⭐22",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 525208354,
+            "language": "Vim Script",
+            "last_commit": "2022-09-15T08:24:30Z",
+            "owner": "Eliot00",
+            "repo": "auto-pairs",
+            "stars": 22
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "nda-cunh/SupraComment",
+          "description": "Vim9 commenting plugin inspired by VS Code’s Ctrl + / behavior. ⭐1",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1116334855,
+            "language": "Vim Script",
+            "last_commit": "2026-04-12T02:29:40Z",
+            "owner": "nda-cunh",
+            "repo": "SupraComment",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ubaldot/vim-highlight-yanked",
+          "description": "Highlight yanked text for Vim9 in less than 100 lines of code. ⭐14",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 646538490,
+            "language": "Vim Script",
+            "last_commit": "2025-08-25T15:16:14Z",
+            "owner": "ubaldot",
+            "repo": "vim-highlight-yanked",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ubaldot/vim-op-surround",
+          "description": "Vim9 surround! ⭐6",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 961558885,
+            "language": "Vim Script",
+            "last_commit": "2026-07-31T13:10:43Z",
+            "owner": "ubaldot",
+            "repo": "vim-op-surround",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ubaldot/vim-writegood",
+          "description": "Check your English prose in Vim. ⭐2",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 643330108,
+            "language": "Vim Script",
+            "last_commit": "2023-05-31T07:53:44Z",
+            "owner": "ubaldot",
+            "repo": "vim-writegood",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "nda-cunh/vim9-autopairs",
+          "description": "Vim9 auto pairs plugin ⭐2",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1119393340,
+            "language": "Vim Script",
+            "last_commit": "2026-05-05T22:35:54Z",
+            "owner": "nda-cunh",
+            "repo": "vim9-autopairs",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Coacher/vim9-buckler",
+          "description": "Vim9 plugin that maintains a consistent yank history through registers ⭐4",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 864021952,
+            "language": "Vim Script",
+            "last_commit": "2026-02-15T11:59:40Z",
+            "owner": "Coacher",
+            "repo": "vim9-buckler",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Coacher/vim9-cutlass",
+          "description": "Vim9 plugin that adds a 'cut' operation separate from 'delete' ⭐3",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 827739896,
+            "language": "Vim Script",
+            "last_commit": "2026-01-12T01:02:17Z",
+            "owner": "Coacher",
+            "repo": "vim9-cutlass",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ShayHill/vim9-socialfmt",
+          "description": "Emulate formatted text for LinkedIn, X, Facebook, and more. ⭐1",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1210720073,
+            "language": "Vim Script",
+            "last_commit": "2026-04-14T20:26:11Z",
+            "owner": "ShayHill",
+            "repo": "vim9-socialfmt",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "Editing"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "ycm/poplar.vim",
+          "description": "Popup filetree and pinned files for vim9 ⭐23",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 902731767,
+            "language": "Vim Script",
+            "last_commit": "2026-05-09T20:42:44Z",
+            "owner": "ycm",
+            "repo": "poplar.vim",
+            "stars": 23
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "nda-cunh/SupraTree",
+          "description": "A tree for vim ⭐1",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1128589072,
+            "language": "Vim Script",
+            "last_commit": "2026-08-06T19:24:05Z",
+            "owner": "nda-cunh",
+            "repo": "SupraTree",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "nda-cunh/SupraWater",
+          "description": "🌊 Vim9script plugin File-Manager like nvim-oil ⭐4",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1036456690,
+            "language": "Vim Script",
+            "last_commit": "2026-07-20T01:05:26Z",
+            "owner": "nda-cunh",
+            "repo": "SupraWater",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "habamax/vim-dir",
+          "description": "Vim file manager ⭐74",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 512456355,
+            "language": "Vim Script",
+            "last_commit": "2026-08-13T00:50:23Z",
+            "owner": "habamax",
+            "repo": "vim-dir",
+            "stars": 74
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "saccarosium/vim-netrw-salad",
+          "description": "A delicious salad to go with your beloved netrw. ⭐2",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 780025672,
+            "language": "Vim Script",
+            "last_commit": "2024-08-24T14:17:01Z",
+            "owner": "saccarosium",
+            "repo": "vim-netrw-salad",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ubaldot/vim-open-recent",
+          "description": "Open recent files from a popup menu. Written in Vim9. ⭐3",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 844736281,
+            "language": "Vim Script",
+            "last_commit": "2025-03-10T20:00:13Z",
+            "owner": "ubaldot",
+            "repo": "vim-open-recent",
+            "stars": 3
+          }
+        }
+      ],
+      "title": "File Management"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "vim-fuzzbox/fuzzbox.vim",
+          "description": "Modern fuzzy finder for Vim with minimal dependencies ⭐162",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 634428407,
+            "language": "Vim Script",
+            "last_commit": "2026-08-22T17:08:01Z",
+            "owner": "vim-fuzzbox",
+            "repo": "fuzzbox.vim",
+            "stars": 162
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hahdookin/minifuzzy.vim",
+          "description": "Simple Vim9 fuzzy finder wrapper utilizing Vim9's built-in fuzzy finding capability ⭐12",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 531722287,
+            "language": "Vim Script",
+            "last_commit": "2024-12-09T13:00:28Z",
+            "owner": "chrispane11",
+            "repo": "minifuzzy.vim",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "girishji/scope.vim",
+          "description": "Minimal, fast, and extensible fuzzy finder. ⭐90",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 765760578,
+            "language": "Vim Script",
+            "last_commit": "2026-05-04T10:00:47Z",
+            "owner": "girishji",
+            "repo": "scope.vim",
+            "stars": 90
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bfrg/vim-fzy",
+          "description": "Run fzy asynchronously in a Vim (popup) terminal-window ⭐16",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 210473954,
+            "language": "Vim Script",
+            "last_commit": "2023-12-24T22:50:37Z",
+            "owner": "bfrg",
+            "repo": "vim-fzy",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ubaldot/vim-poptools",
+          "description": "Exploit popups as much as you can! ⭐19",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 852234209,
+            "language": "Vim Script",
+            "last_commit": "2026-08-20T15:44:10Z",
+            "owner": "ubaldot",
+            "repo": "vim-poptools",
+            "stars": 19
+          }
+        }
+      ],
+      "title": "Fuzzy Finding"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "yegappan/battleship",
+          "description": "Battleship game for Vim ⭐12",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 15445732,
+            "language": "Vim Script",
+            "last_commit": "2026-02-23T03:03:36Z",
+            "owner": "yegappan",
+            "repo": "battleship",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "nda-cunh/Crumble.vim",
+          "description": "Crumble the buffer you're looking at. ⭐0",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1298617871,
+            "language": "Vim Script",
+            "last_commit": "2026-07-12T20:57:03Z",
+            "owner": "nda-cunh",
+            "repo": "Crumble.vim",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "yegappan/game2048",
+          "description": "Game 2048 implemented using Vim9script ⭐2",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1162317327,
+            "language": "Vim Script",
+            "last_commit": "2026-02-23T03:04:39Z",
+            "owner": "yegappan",
+            "repo": "game2048",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "yegappan/minesweeper",
+          "description": "Minesweeper game using Vim9script ⭐1",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1160143578,
+            "language": "Vim Script",
+            "last_commit": "2026-02-23T03:05:13Z",
+            "owner": "yegappan",
+            "repo": "minesweeper",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "yegappan/nonogram",
+          "description": "Nonogram game written in Vim9script ⭐3",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1163769274,
+            "language": "Vim Script",
+            "last_commit": "2026-02-23T03:05:45Z",
+            "owner": "yegappan",
+            "repo": "nonogram",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "yegappan/number-puzzle",
+          "description": "Sliding number puzzle game written in Vim9script ⭐3",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1157621417,
+            "language": "Vim Script",
+            "last_commit": "2026-02-23T03:31:49Z",
+            "owner": "yegappan",
+            "repo": "number-puzzle",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "yegappan/snake",
+          "description": "Snake Game in Vim9script ⭐3",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1158151622,
+            "language": "Vim Script",
+            "last_commit": "2026-02-23T03:06:31Z",
+            "owner": "yegappan",
+            "repo": "snake",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "nda-cunh/SupraPacman",
+          "description": "vim9.1 plugin for playing to pacman in vim ⭐11",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1096824472,
+            "language": "Vim Script",
+            "last_commit": "2026-07-18T01:16:28Z",
+            "owner": "nda-cunh",
+            "repo": "SupraPacman",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "nda-cunh/SupraSnake",
+          "description": "a vim9script plugin for Add a SnakeGame ! ⭐3",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1041882596,
+            "language": "Vim Script",
+            "last_commit": "2026-07-16T05:35:19Z",
+            "owner": "nda-cunh",
+            "repo": "SupraSnake",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "yegappan/tetris",
+          "description": "Tetris game in Vim9script ⭐2",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1163495984,
+            "language": "Vim Script",
+            "last_commit": "2026-02-23T03:06:53Z",
+            "owner": "yegappan",
+            "repo": "tetris",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "yegappan/tic-tac-toe",
+          "description": "Tic-Tac-Toe game in Vim9script ⭐3",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1158312197,
+            "language": "Vim Script",
+            "last_commit": "2026-02-23T03:07:12Z",
+            "owner": "yegappan",
+            "repo": "tic-tac-toe",
+            "stars": 3
+          }
+        }
+      ],
+      "title": "Games"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "ShayHill/article_install_vim_in_windows",
+          "description": "This guide will start from a stock Windows 11 install and take you all the way to a Python development environment with completion, snippets, LSPs, debugging, AI, etc. ⭐19",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 864638102,
+            "language": "Python",
+            "last_commit": "2026-08-13T18:12:47Z",
+            "owner": "ShayHill",
+            "repo": "article_install_vim_in_windows",
+            "stars": 19
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "yegappan/design-patterns",
+          "description": "Design patterns in Vim9script ⭐9",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1160563510,
+            "language": "Vim Script",
+            "last_commit": "2026-02-18T05:31:40Z",
+            "owner": "yegappan",
+            "repo": "design-patterns",
+            "stars": 9
+          }
+        }
+      ],
+      "title": "Guides"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "noscript/bazel.vim",
+          "description": "Google Bazel integration for Vim ⭐5",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 679830515,
+            "language": "Vim Script",
+            "last_commit": "2023-08-19T12:24:26Z",
+            "owner": "noscript",
+            "repo": "bazel.vim",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gh-tui-tools/gh-review.vim",
+          "description": "🧐 Review GitHub PRs in Vim 9.0+ ⭐11",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1155899481,
+            "language": "Vim Script",
+            "last_commit": "2026-08-01T11:18:43Z",
+            "owner": "gh-tui-tools",
+            "repo": "gh-review.vim",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DanBradbury/github-actions.vim",
+          "description": "Interact with GitHub Actions in vim ⭐2",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1096914980,
+            "language": "Vim Script",
+            "last_commit": "2025-12-06T23:42:43Z",
+            "owner": "DanBradbury",
+            "repo": "github-actions.vim",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mao-yining/gv.vim",
+          "description": "A git commit browser in Vim. Rewrite in vim9script. Require vim-fugitive ⭐1",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1119930084,
+            "language": "Vim Script",
+            "last_commit": "2026-08-23T15:39:08Z",
+            "owner": "mao-yining",
+            "repo": "gv.vim",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gcanat/texpresso.vim9",
+          "description": "vim mode for texpresso ⭐2",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1094555038,
+            "language": "Vim Script",
+            "last_commit": "2025-11-14T22:22:37Z",
+            "owner": "gcanat",
+            "repo": "texpresso.vim9",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bfrg/vim-cmake-help",
+          "description": "View CMake Documentation inside Vim ⭐8",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 224445157,
+            "language": "Vim Script",
+            "last_commit": "2025-07-13T11:20:30Z",
+            "owner": "bfrg",
+            "repo": "vim-cmake-help",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ubaldot/vim-conda-activate",
+          "description": "Activate Conda environments in Vim. ⭐18",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 644852491,
+            "language": "Vim Script",
+            "last_commit": "2025-02-06T12:12:10Z",
+            "owner": "ubaldot",
+            "repo": "vim-conda-activate",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "habamax/vim-curl",
+          "description": "Simple curl wrapper for vim to work with REST API ⭐6",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1271706943,
+            "language": "Vim Script",
+            "last_commit": "2026-07-03T00:42:45Z",
+            "owner": "habamax",
+            "repo": "vim-curl",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ubaldot/vim-git-box",
+          "description": "A tiny Vim plugin for everyday git operations, inspired by lazygit ⭐2",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 871665688,
+            "language": "Vim Script",
+            "last_commit": "2026-07-23T22:11:16Z",
+            "owner": "ubaldot",
+            "repo": "vim-git-box",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "habamax/vim-ii",
+          "description": "IRC with suckless Irc it (ii) and vim ⭐13",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 729526919,
+            "language": "Vim Script",
+            "last_commit": "2025-06-17T03:09:56Z",
+            "owner": "habamax",
+            "repo": "vim-ii",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bfrg/vim-jqplay",
+          "description": "Run jq interactively in Vim ⭐124",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 217536719,
+            "language": "Vim Script",
+            "last_commit": "2024-03-05T22:44:40Z",
+            "owner": "bfrg",
+            "repo": "vim-jqplay",
+            "stars": 124
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ubaldot/vim-manim",
+          "description": "Render your manim-ations from Vim. ⭐6",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 784166465,
+            "language": "Vim Script",
+            "last_commit": "2025-08-25T15:27:09Z",
+            "owner": "ubaldot",
+            "repo": "vim-manim",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ubaldot/vim-microdebugger",
+          "description": "A tiny plugin on top of Termdebug for remote debugging (docker, MCUs, etc) ⭐6",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 826182030,
+            "language": "Vim Script",
+            "last_commit": "2025-08-25T15:25:39Z",
+            "owner": "ubaldot",
+            "repo": "vim-microdebugger",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ubaldot/vim-replica",
+          "description": "The ultimate REPL! ⭐32",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 621525297,
+            "language": "Vim Script",
+            "last_commit": "2026-08-20T15:09:30Z",
+            "owner": "ubaldot",
+            "repo": "vim-replica",
+            "stars": 32
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "wolandark/vimdict",
+          "description": "A Simple Wrapper Over The Dict CLI Utility For Vim9 ⭐4",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 818092858,
+            "language": "Vim Script",
+            "last_commit": "2024-06-23T02:39:00Z",
+            "owner": "wolandark",
+            "repo": "vimdict",
+            "stars": 4
+          }
+        }
+      ],
+      "title": "Integrations"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "DanielViberg/lsp",
+          "description": "A lightweight, pure vim9script lsp client ⭐2",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1021461415,
+            "language": "Vim Script",
+            "last_commit": "2026-08-19T09:14:13Z",
+            "owner": "DanielViberg",
+            "repo": "lsp",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "yegappan/lsp",
+          "description": "Language Server Protocol (LSP) plugin for Vim9 ⭐764",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 319204811,
+            "language": "Vim Script",
+            "last_commit": "2026-08-17T00:46:22Z",
+            "owner": "yegappan",
+            "repo": "lsp",
+            "stars": 764
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "creativenull/vim-lspclient",
+          "description": "A highly experimental lsp client for vim. Written in vim9script. ⭐18",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 518997815,
+            "language": "Vim Script",
+            "last_commit": "2022-09-01T15:53:36Z",
+            "owner": "creativenull",
+            "repo": "vim-lspclient",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "saccarosium/yegappan-lsp-settings",
+          "description": "Quickstart configs for yeggapan lsp client ⭐4",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 879876981,
+            "language": "Vim Script",
+            "last_commit": "2024-11-28T16:15:25Z",
+            "owner": "saccarosium",
+            "repo": "yegappan-lsp-settings",
+            "stars": 4
+          }
+        }
+      ],
+      "title": "Language Server Protocol"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "ubaldot/vim-markdown-extras",
+          "description": "Modern note taking plugin with markdown focus ⭐13",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 931754518,
+            "language": "Vim Script",
+            "last_commit": "2026-07-31T13:10:04Z",
+            "owner": "ubaldot",
+            "repo": "vim-markdown-extras",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "greeschenko/vimsidian",
+          "description": "Minimalistic Obsidian-like note system inside Vim (Vim9script). ⭐2",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1193857817,
+            "language": "Vim Script",
+            "last_commit": "2026-06-20T10:56:36Z",
+            "owner": "greeschenko",
+            "repo": "vimsidian",
+            "stars": 2
+          }
+        }
+      ],
+      "title": "Markdown"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "nda-cunh/PropColor",
+          "description": "vim9script plugin to draw colors in your editor ⭐4",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1186695319,
+            "language": "Vim Script",
+            "last_commit": "2026-06-07T04:59:17Z",
+            "owner": "nda-cunh",
+            "repo": "PropColor",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "nda-cunh/SupraIcons",
+          "description": "Icons and Palette plugin vim9 ⭐2",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1036467699,
+            "language": "Vim Script",
+            "last_commit": "2026-05-13T23:10:14Z",
+            "owner": "nda-cunh",
+            "repo": "SupraIcons",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jessepav/vim-boxdraw",
+          "description": "Vim 9 plugin to draw boxes, tables, and lines ⭐8",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 791948722,
+            "language": "Vim Script",
+            "last_commit": "2025-05-20T17:49:54Z",
+            "owner": "jessepav",
+            "repo": "vim-boxdraw",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ubaldot/vim-calendar",
+          "description": "Calendar in Vim9 ⭐2",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1036528689,
+            "language": "Vim Script",
+            "last_commit": "2026-08-13T14:50:05Z",
+            "owner": "ubaldot",
+            "repo": "vim-calendar",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "wolandark/vim-ez-emoji",
+          "description": "An easy emoji plugin for vim written in vim9script ⭐12",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 697113863,
+            "language": "Vim Script",
+            "last_commit": "2026-02-15T07:28:44Z",
+            "owner": "wolandark",
+            "repo": "vim-ez-emoji",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ubaldot/vim-helpme",
+          "description": "Can't you remember stuff? Try this! ⭐11",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 619938243,
+            "language": "Vim Script",
+            "last_commit": "2026-07-28T11:15:59Z",
+            "owner": "ubaldot",
+            "repo": "vim-helpme",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ubaldot/vim-outline",
+          "description": "A simple outline sketcher for different filetypes. ⭐23",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 627301927,
+            "language": "Vim Script",
+            "last_commit": "2026-07-31T13:11:04Z",
+            "owner": "ubaldot",
+            "repo": "vim-outline",
+            "stars": 23
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ubaldot/vim9-conversion-aid",
+          "description": "A little help for upgrading your scripts to vim9 language. ⭐16",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 831406730,
+            "language": "Vim Script",
+            "last_commit": "2026-08-21T05:03:21Z",
+            "owner": "ubaldot",
+            "repo": "vim9-conversion-aid",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "lacygoill/vim9asm",
+          "description": "No description provided. ⭐24",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 358062372,
+            "language": "Vim Script",
+            "last_commit": "2025-07-25T18:35:40Z",
+            "owner": "lacygoill",
+            "repo": "vim9asm",
+            "stars": 24
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sevehub/vim9psgrep",
+          "description": "vim9psgrep is a Vim9script plugin that integrates the power of ripgrep with Vim, utilizing PowerShell scripts and Visual Basic popups ⭐1",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 793002361,
+            "language": "PowerShell",
+            "last_commit": "2025-02-05T15:01:31Z",
+            "owner": "sevehub",
+            "repo": "vim9psgrep",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "Miscellaneous"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "girishji/easyjump.vim",
+          "description": "The Vim motion you've always wanted. ⭐20",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 719966568,
+            "language": "Vim Script",
+            "last_commit": "2024-06-06T08:55:31Z",
+            "owner": "girishji",
+            "repo": "easyjump.vim",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "girishji/fFtT.vim",
+          "description": "More accurate f, F, t, T navigation in Vim. ⭐10",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 763930419,
+            "language": "Vim Script",
+            "last_commit": "2024-06-06T08:55:53Z",
+            "owner": "girishji",
+            "repo": "fFtT.vim",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "monkoose/vim9-stargate",
+          "description": "modern alternative to easymotion written in vim9 ⭐123",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 384169156,
+            "language": "Vim Script",
+            "last_commit": "2024-01-17T13:31:37Z",
+            "owner": "monkoose",
+            "repo": "vim9-stargate",
+            "stars": 123
+          }
+        }
+      ],
+      "title": "Motion"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "bfrg/vim-qf-diagnostics",
+          "description": "Highlight quickfix errors, and display error messages as virtual text or in a popup window ⭐30",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 220322458,
+            "language": "Vim Script",
+            "last_commit": "2024-07-26T22:28:19Z",
+            "owner": "bfrg",
+            "repo": "vim-qf-diagnostics",
+            "stars": 30
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bfrg/vim-qf-history",
+          "description": "Navigate Vim's quickfix and location-list history using a popup menu ⭐13",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 241964235,
+            "language": "Vim Script",
+            "last_commit": "2024-02-02T22:07:11Z",
+            "owner": "bfrg",
+            "repo": "vim-qf-history",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bfrg/vim-qf-preview",
+          "description": "Preview the quickfix item under the cursor in a popup window ⭐55",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 206033899,
+            "language": "Vim Script",
+            "last_commit": "2024-02-02T22:04:03Z",
+            "owner": "bfrg",
+            "repo": "vim-qf-preview",
+            "stars": 55
+          }
+        }
+      ],
+      "title": "Quickfix"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "senioria/lines9",
+          "description": "A statusline/tabline plugin written in vim9script ⭐2",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 539485090,
+            "language": "Vim Script",
+            "last_commit": "2025-01-16T19:31:58Z",
+            "owner": "senioria",
+            "repo": "lines9",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bakudankun/qline.vim",
+          "description": "The quick, fully-customizable status line plugin written in cutting-edge Vim9 script. ⭐44",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 298713634,
+            "language": "Vim Script",
+            "last_commit": "2025-10-12T17:22:44Z",
+            "owner": "Bakudankun",
+            "repo": "qline.vim",
+            "stars": 44
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vim-airline/vim-airline",
+          "description": "lean & mean status/tabline for vim that's light as air ⭐17959",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 11075527,
+            "language": "Vim Script",
+            "last_commit": "2026-07-25T17:16:51Z",
+            "owner": "vim-airline",
+            "repo": "vim-airline",
+            "stars": 17959
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kennypete/vim-tene",
+          "description": "Vim 9 - teRNARY STATUSLIne ⭐17",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 607293464,
+            "language": "Vim Script",
+            "last_commit": "2025-01-07T06:05:27Z",
+            "owner": "kennypete",
+            "repo": "vim-tene",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ShayHill/vim9-limelight",
+          "description": "Shade unfocused windows. Give a bright statusline color for active windows when splits are open. ⭐10",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1033364008,
+            "language": "Vim Script",
+            "last_commit": "2026-07-01T21:00:21Z",
+            "owner": "ShayHill",
+            "repo": "vim9-limelight",
+            "stars": 10
+          }
+        }
+      ],
+      "title": "Statusline"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "noscript/elevator.vim",
+          "description": "Scrollbar for VIM ⭐12",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 678962636,
+            "language": "Vim Script",
+            "last_commit": "2024-12-21T22:36:19Z",
+            "owner": "noscript",
+            "repo": "elevator.vim",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "nda-cunh/indent_rainbow_vim",
+          "description": "vim9 plugin for indent_rainbow from supravim ⭐3",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1045946610,
+            "language": "Vim Script",
+            "last_commit": "2025-08-28T00:54:30Z",
+            "owner": "nda-cunh",
+            "repo": "indent_rainbow_vim",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bakudankun/minimap.vim",
+          "description": "minimap plugin written in pure Vim9 script. ⭐5",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1297949790,
+            "language": "Vim Script",
+            "last_commit": "2026-08-19T22:42:55Z",
+            "owner": "Bakudankun",
+            "repo": "minimap.vim",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bakudankun/partycursor.vim",
+          "description": "PARTY OR IDE ⭐1",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1213106530,
+            "language": "Vim Script",
+            "last_commit": "2026-04-17T04:05:44Z",
+            "owner": "Bakudankun",
+            "repo": "partycursor.vim",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "nda-cunh/smear_cursor-vim",
+          "description": "Fire your cursor ! ⭐0",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1286486755,
+            "language": "Vim Script",
+            "last_commit": "2026-07-01T20:44:02Z",
+            "owner": "nda-cunh",
+            "repo": "smear_cursor-vim",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bakudankun/sqroller.vim",
+          "description": "Scrollbar plugin for those who don't need foldcolumn. ⭐0",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 874855013,
+            "language": "Vim Script",
+            "last_commit": "2024-10-18T16:19:08Z",
+            "owner": "Bakudankun",
+            "repo": "sqroller.vim",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "noscript/taberian.vim",
+          "description": "Clickable tabs per VIM window ⭐19",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 402718015,
+            "language": "Vim Script",
+            "last_commit": "2023-08-08T23:39:31Z",
+            "owner": "noscript",
+            "repo": "taberian.vim",
+            "stars": 19
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mao-yining/undotree.vim",
+          "description": "The undo history visualizer for VIM ⭐4",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1141611732,
+            "language": "Vim Script",
+            "last_commit": "2026-08-18T03:41:10Z",
+            "owner": "mao-yining",
+            "repo": "undotree.vim",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "utubo/vim-anypanel",
+          "description": "📑This is a plugin that helps you customize the tab panel. ⭐5",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 991900325,
+            "language": "Vim Script",
+            "last_commit": "2026-03-02T08:34:16Z",
+            "owner": "utubo",
+            "repo": "vim-anypanel",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ubaldot/vim-extended-view",
+          "description": "A window is too small for your long buffer? Then, try this! ⭐6",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 850719800,
+            "language": "Vim Script",
+            "last_commit": "2025-08-25T15:28:03Z",
+            "owner": "ubaldot",
+            "repo": "vim-extended-view",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kennypete/vim-popped",
+          "description": "A plugin for Vim providing commands that use Vim’s builtin popup window functionality. ⭐10",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 711628743,
+            "language": "Vim Script",
+            "last_commit": "2023-10-29T21:29:24Z",
+            "owner": "kennypete",
+            "repo": "vim-popped",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mattn/vim-smear-cursor",
+          "description": "No description provided. ⭐6",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1180694254,
+            "language": "Vim Script",
+            "last_commit": "2026-03-15T09:59:32Z",
+            "owner": "mattn",
+            "repo": "vim-smear-cursor",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kennypete/vim9-winswap",
+          "description": "A Vim9 script plugin enabling easy swapping and putting of windows ⭐3",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1014917267,
+            "language": "Vim Script",
+            "last_commit": "2025-07-20T05:55:10Z",
+            "owner": "kennypete",
+            "repo": "vim9-winswap",
+            "stars": 3
+          }
+        }
+      ],
+      "title": "UI"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "vim/.../pack/.../cfilter",
+          "description": ":h package-cfilter N/A",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 40997482,
+            "language": "Vim Script",
+            "last_commit": "2026-08-23T20:02:08Z",
+            "owner": "vim",
+            "repo": "vim",
+            "stars": 40789
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vim/.../pack/.../comment",
+          "description": ":h package-comment N/A",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 40997482,
+            "language": "Vim Script",
+            "last_commit": "2026-08-23T20:02:08Z",
+            "owner": "vim",
+            "repo": "vim",
+            "stars": 40789
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vim/.../pack/.../helpcurwin",
+          "description": ":h package-helpcurwin N/A",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 40997482,
+            "language": "Vim Script",
+            "last_commit": "2026-08-23T20:02:08Z",
+            "owner": "vim",
+            "repo": "vim",
+            "stars": 40789
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vim/.../pack/.../helptoc",
+          "description": ":h package-helptoc N/A",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 40997482,
+            "language": "Vim Script",
+            "last_commit": "2026-08-23T20:02:08Z",
+            "owner": "vim",
+            "repo": "vim",
+            "stars": 40789
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vim/.../pack/.../hlyank",
+          "description": ":h package-hlyank N/A",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 40997482,
+            "language": "Vim Script",
+            "last_commit": "2026-08-23T20:02:08Z",
+            "owner": "vim",
+            "repo": "vim",
+            "stars": 40789
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vim/.../pack/.../osc52",
+          "description": ":h package-osc52 N/A",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 40997482,
+            "language": "Vim Script",
+            "last_commit": "2026-08-23T20:02:08Z",
+            "owner": "vim",
+            "repo": "vim",
+            "stars": 40789
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vim/.../pack/.../termdebug",
+          "description": ":h package-termdebug N/A",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 40997482,
+            "language": "Vim Script",
+            "last_commit": "2026-08-23T20:02:08Z",
+            "owner": "vim",
+            "repo": "vim",
+            "stars": 40789
+          }
+        }
+      ],
+      "title": "Vim Internal"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "habamax/.vim",
+          "description": "Personal .vim ⭐85",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 36975500,
+            "language": "Vim Script",
+            "last_commit": "2026-08-24T12:16:46Z",
+            "owner": "habamax",
+            "repo": ".vim",
+            "stars": 85
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kennypete/.vimrc",
+          "description": "My .vimrc ⭐4",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 443284788,
+            "language": "Vim Script",
+            "last_commit": "2026-07-29T18:49:23Z",
+            "owner": "kennypete",
+            "repo": ".vimrc",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "lacygoill/config",
+          "description": "No description provided. ⭐0",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 621675202,
+            "language": "Vim Script",
+            "last_commit": "2026-08-23T07:53:57Z",
+            "owner": "lacygoill",
+            "repo": "config",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bennyyip/dot-vim",
+          "description": "No description provided. ⭐9",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 74715843,
+            "language": "Vim Script",
+            "last_commit": "2026-07-28T11:00:39Z",
+            "owner": "bennyyip",
+            "repo": "dot-vim",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "64-bitman/vim-config",
+          "description": "No description provided. ⭐2",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 866317606,
+            "language": "Vim Script",
+            "last_commit": "2026-07-23T00:12:54Z",
+            "owner": "64-bitman",
+            "repo": "vim-config",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ShayHill/vimfiles",
+          "description": "my personal vimfiles for mostly Python dev on Windows ⭐1",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 574168442,
+            "language": "Vim Script",
+            "last_commit": "2026-08-03T16:51:15Z",
+            "owner": "ShayHill",
+            "repo": "vimfiles",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "beamiter/vimrc",
+          "description": "vimrc ⭐4",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 281876251,
+            "language": "Vim Script",
+            "last_commit": "2026-08-21T03:12:10Z",
+            "owner": "beamiter",
+            "repo": "vimrc",
+            "stars": 4
+          }
+        }
+      ],
+      "title": "Vimrc"
+    }
+  ],
   "metadata": {
-    "last_updated": "2026-08-24T02:22:32.532Z",
+    "last_updated": "2026-08-24T14:35:48.360Z",
     "original_repository": "saccarosium/awesome-vim9",
     "original_repository_id": 763100952,
-    "original_repository_sha": "228c0d69405bc538442f31b06731fa9fa234885b",
+    "original_repository_sha": "540d113fe5d35b243fe4461f4260d4d08134fdae",
     "enhanced_repository": "enhansome/enhansome-vim9",
     "enhanced_repository_description": null,
     "title": "Awesome-Vim9 with stars"
