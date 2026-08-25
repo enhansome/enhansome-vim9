@@ -990,7 +990,7 @@
             "last_commit": "2026-08-17T00:46:22Z",
             "owner": "yegappan",
             "repo": "lsp",
-            "stars": 764
+            "stars": 765
           }
         },
         {
@@ -1647,7 +1647,7 @@
             "last_commit": "2026-08-23T20:02:08Z",
             "owner": "vim",
             "repo": "vim",
-            "stars": 40792
+            "stars": 40794
           }
         },
         {
@@ -1662,7 +1662,7 @@
             "last_commit": "2026-08-23T20:02:08Z",
             "owner": "vim",
             "repo": "vim",
-            "stars": 40792
+            "stars": 40794
           }
         },
         {
@@ -1677,7 +1677,7 @@
             "last_commit": "2026-08-23T20:02:08Z",
             "owner": "vim",
             "repo": "vim",
-            "stars": 40792
+            "stars": 40794
           }
         },
         {
@@ -1692,7 +1692,7 @@
             "last_commit": "2026-08-23T20:02:08Z",
             "owner": "vim",
             "repo": "vim",
-            "stars": 40792
+            "stars": 40794
           }
         },
         {
@@ -1707,7 +1707,7 @@
             "last_commit": "2026-08-23T20:02:08Z",
             "owner": "vim",
             "repo": "vim",
-            "stars": 40792
+            "stars": 40794
           }
         },
         {
@@ -1722,7 +1722,7 @@
             "last_commit": "2026-08-23T20:02:08Z",
             "owner": "vim",
             "repo": "vim",
-            "stars": 40792
+            "stars": 40794
           }
         },
         {
@@ -1737,7 +1737,7 @@
             "last_commit": "2026-08-23T20:02:08Z",
             "owner": "vim",
             "repo": "vim",
-            "stars": 40792
+            "stars": 40794
           }
         }
       ],
@@ -1755,7 +1755,7 @@
             "archived": false,
             "id": 36975500,
             "language": "Vim Script",
-            "last_commit": "2026-08-24T12:16:46Z",
+            "last_commit": "2026-08-25T04:39:28Z",
             "owner": "habamax",
             "repo": ".vim",
             "stars": 85
@@ -1856,7 +1856,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T02:18:02.634Z",
+    "last_updated": "2026-08-25T06:24:30.751Z",
     "original_repository": "saccarosium/awesome-vim9",
     "original_repository_id": 763100952,
     "original_repository_sha": "62523ae6a7f079969b8eadcb4d36057119ebfb01",
