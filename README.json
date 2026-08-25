@@ -972,7 +972,7 @@
             "archived": false,
             "id": 1021461415,
             "language": "Vim Script",
-            "last_commit": "2026-08-19T09:14:13Z",
+            "last_commit": "2026-08-24T19:14:43Z",
             "owner": "DanielViberg",
             "repo": "lsp",
             "stars": 2
@@ -991,6 +991,21 @@
             "owner": "yegappan",
             "repo": "lsp",
             "stars": 764
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "h-east/lsp.vim",
+          "description": "A Language Server Protocol client for Vim, written in Vim9 script. ⭐3",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1341522844,
+            "language": "Vim Script",
+            "last_commit": "2026-08-24T20:47:08Z",
+            "owner": "h-east",
+            "repo": "lsp.vim",
+            "stars": 3
           }
         },
         {
@@ -1029,6 +1044,21 @@
     {
       "description": null,
       "items": [
+        {
+          "node_type": "item",
+          "title": "JosefAlbers/thumb",
+          "description": "Popup images and render LaTeX directly in Vim ⭐0",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1344061567,
+            "language": "Vim Script",
+            "last_commit": "2026-08-24T17:54:00Z",
+            "owner": "JosefAlbers",
+            "repo": "thumb",
+            "stars": 0
+          }
+        },
         {
           "node_type": "item",
           "title": "ubaldot/vim-markdown-extras",
@@ -1365,7 +1395,7 @@
             "last_commit": "2026-07-25T17:16:51Z",
             "owner": "vim-airline",
             "repo": "vim-airline",
-            "stars": 17959
+            "stars": 17960
           }
         },
         {
@@ -1617,7 +1647,7 @@
             "last_commit": "2026-08-23T20:02:08Z",
             "owner": "vim",
             "repo": "vim",
-            "stars": 40789
+            "stars": 40792
           }
         },
         {
@@ -1632,7 +1662,7 @@
             "last_commit": "2026-08-23T20:02:08Z",
             "owner": "vim",
             "repo": "vim",
-            "stars": 40789
+            "stars": 40792
           }
         },
         {
@@ -1647,7 +1677,7 @@
             "last_commit": "2026-08-23T20:02:08Z",
             "owner": "vim",
             "repo": "vim",
-            "stars": 40789
+            "stars": 40792
           }
         },
         {
@@ -1662,7 +1692,7 @@
             "last_commit": "2026-08-23T20:02:08Z",
             "owner": "vim",
             "repo": "vim",
-            "stars": 40789
+            "stars": 40792
           }
         },
         {
@@ -1677,7 +1707,7 @@
             "last_commit": "2026-08-23T20:02:08Z",
             "owner": "vim",
             "repo": "vim",
-            "stars": 40789
+            "stars": 40792
           }
         },
         {
@@ -1692,7 +1722,7 @@
             "last_commit": "2026-08-23T20:02:08Z",
             "owner": "vim",
             "repo": "vim",
-            "stars": 40789
+            "stars": 40792
           }
         },
         {
@@ -1707,7 +1737,7 @@
             "last_commit": "2026-08-23T20:02:08Z",
             "owner": "vim",
             "repo": "vim",
-            "stars": 40789
+            "stars": 40792
           }
         }
       ],
@@ -1826,10 +1856,10 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:35:48.360Z",
+    "last_updated": "2026-08-25T02:18:02.634Z",
     "original_repository": "saccarosium/awesome-vim9",
     "original_repository_id": 763100952,
-    "original_repository_sha": "540d113fe5d35b243fe4461f4260d4d08134fdae",
+    "original_repository_sha": "62523ae6a7f079969b8eadcb4d36057119ebfb01",
     "enhanced_repository": "enhansome/enhansome-vim9",
     "enhanced_repository_description": null,
     "title": "Awesome-Vim9 with stars"
