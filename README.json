@@ -1002,7 +1002,7 @@
             "archived": false,
             "id": 1341522844,
             "language": "Vim Script",
-            "last_commit": "2026-08-27T08:50:48Z",
+            "last_commit": "2026-08-27T11:52:00Z",
             "owner": "h-east",
             "repo": "lsp.vim",
             "stars": 6
@@ -1856,7 +1856,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T10:56:13.269Z",
+    "last_updated": "2026-08-27T12:11:45.303Z",
     "original_repository_info": {
       "archived": false,
       "id": 763100952,

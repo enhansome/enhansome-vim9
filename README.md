@@ -156,7 +156,7 @@ To submit a new plugin read [CONTRIBUTING.md](./CONTRIBUTING.md) first.
 | -------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ | ---- |
 | [DanielViberg/lsp](https://github.com/DanielViberg/lsp) ⭐ 2 \| 🐛 1 \| 🌐 Vim Script \| 📅 2026-08-24                      | A lightweight, pure vim9script lsp client                          | ⭐2   |
 | [yegappan/lsp](https://github.com/yegappan/lsp/tree/main) ⭐ 766 \| 🐛 115 \| 🌐 Vim Script \| 📅 2026-08-17                | Language Server Protocol (LSP) plugin for Vim9                     | ⭐764 |
-| [h-east/lsp.vim](https://github.com/h-east/lsp.vim) ⭐ 6 \| 🐛 4 \| 🌐 Vim Script \| 📅 2026-08-27                          | A Language Server Protocol client for Vim, written in Vim9 script. | ⭐3   |
+| [h-east/lsp.vim](https://github.com/h-east/lsp.vim) ⭐ 6 \| 🐛 2 \| 🌐 Vim Script \| 📅 2026-08-27                          | A Language Server Protocol client for Vim, written in Vim9 script. | ⭐3   |
 | [creativenull/vim-lspclient](https://github.com/creativenull/vim-lspclient) ⭐ 18 \| 🐛 0 \| 🌐 Vim Script \| 📅 2022-09-01 | A highly experimental lsp client for vim. Written in vim9script.   | ⭐18  |
 | [saccarosium/yegappan-lsp-settings](https://github.com/saccarosium/yegappan-lsp-settings) ⚠️ Archived                      | Quickstart configs for yeggapan lsp client                         | ⭐4   |
 
