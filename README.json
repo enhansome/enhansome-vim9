@@ -456,7 +456,7 @@
             "last_commit": "2026-08-22T17:08:01Z",
             "owner": "vim-fuzzbox",
             "repo": "fuzzbox.vim",
-            "stars": 161
+            "stars": 162
           }
         },
         {
@@ -990,7 +990,7 @@
             "last_commit": "2026-08-17T00:46:22Z",
             "owner": "yegappan",
             "repo": "lsp",
-            "stars": 764
+            "stars": 766
           }
         },
         {
@@ -1002,10 +1002,10 @@
             "archived": false,
             "id": 1341522844,
             "language": "Vim Script",
-            "last_commit": "2026-08-25T20:35:13Z",
+            "last_commit": "2026-08-27T08:50:48Z",
             "owner": "h-east",
             "repo": "lsp.vim",
-            "stars": 5
+            "stars": 6
           }
         },
         {
@@ -1395,7 +1395,7 @@
             "last_commit": "2026-07-25T17:16:51Z",
             "owner": "vim-airline",
             "repo": "vim-airline",
-            "stars": 17960
+            "stars": 17959
           }
         },
         {
@@ -1644,10 +1644,10 @@
             "archived": false,
             "id": 40997482,
             "language": "Vim Script",
-            "last_commit": "2026-08-25T21:25:25Z",
+            "last_commit": "2026-08-26T21:31:38Z",
             "owner": "vim",
             "repo": "vim",
-            "stars": 40800
+            "stars": 40806
           }
         },
         {
@@ -1659,10 +1659,10 @@
             "archived": false,
             "id": 40997482,
             "language": "Vim Script",
-            "last_commit": "2026-08-25T21:25:25Z",
+            "last_commit": "2026-08-26T21:31:38Z",
             "owner": "vim",
             "repo": "vim",
-            "stars": 40800
+            "stars": 40806
           }
         },
         {
@@ -1674,10 +1674,10 @@
             "archived": false,
             "id": 40997482,
             "language": "Vim Script",
-            "last_commit": "2026-08-25T21:25:25Z",
+            "last_commit": "2026-08-26T21:31:38Z",
             "owner": "vim",
             "repo": "vim",
-            "stars": 40800
+            "stars": 40806
           }
         },
         {
@@ -1689,10 +1689,10 @@
             "archived": false,
             "id": 40997482,
             "language": "Vim Script",
-            "last_commit": "2026-08-25T21:25:25Z",
+            "last_commit": "2026-08-26T21:31:38Z",
             "owner": "vim",
             "repo": "vim",
-            "stars": 40800
+            "stars": 40806
           }
         },
         {
@@ -1704,10 +1704,10 @@
             "archived": false,
             "id": 40997482,
             "language": "Vim Script",
-            "last_commit": "2026-08-25T21:25:25Z",
+            "last_commit": "2026-08-26T21:31:38Z",
             "owner": "vim",
             "repo": "vim",
-            "stars": 40800
+            "stars": 40806
           }
         },
         {
@@ -1719,10 +1719,10 @@
             "archived": false,
             "id": 40997482,
             "language": "Vim Script",
-            "last_commit": "2026-08-25T21:25:25Z",
+            "last_commit": "2026-08-26T21:31:38Z",
             "owner": "vim",
             "repo": "vim",
-            "stars": 40800
+            "stars": 40806
           }
         },
         {
@@ -1734,10 +1734,10 @@
             "archived": false,
             "id": 40997482,
             "language": "Vim Script",
-            "last_commit": "2026-08-25T21:25:25Z",
+            "last_commit": "2026-08-26T21:31:38Z",
             "owner": "vim",
             "repo": "vim",
-            "stars": 40800
+            "stars": 40806
           }
         }
       ],
@@ -1755,7 +1755,7 @@
             "archived": false,
             "id": 36975500,
             "language": "Vim Script",
-            "last_commit": "2026-08-25T12:13:45Z",
+            "last_commit": "2026-08-26T04:55:31Z",
             "owner": "habamax",
             "repo": ".vim",
             "stars": 85
@@ -1856,9 +1856,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T02:24:25.017Z",
-    "original_repository": "saccarosium/awesome-vim9",
-    "original_repository_id": 763100952,
+    "last_updated": "2026-08-27T10:56:13.269Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 763100952,
+      "language": "Python",
+      "last_commit": "2026-08-24T17:31:36Z",
+      "owner": "saccarosium",
+      "repo": "awesome-vim9",
+      "stars": 207
+    },
     "original_repository_sha": "62523ae6a7f079969b8eadcb4d36057119ebfb01",
     "enhanced_repository": "enhansome/enhansome-vim9",
     "enhanced_repository_description": null,
