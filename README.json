@@ -1115,7 +1115,7 @@
             "open_issues": 0,
             "owner": "yegappan",
             "repo": "design-patterns",
-            "stars": 9,
+            "stars": 10,
             "topics": []
           },
           "first_seen": "2026-08-28T12:31:53.735Z"
@@ -1561,7 +1561,7 @@
             "open_issues": 111,
             "owner": "yegappan",
             "repo": "lsp",
-            "stars": 770,
+            "stars": 771,
             "topics": []
           },
           "first_seen": "2026-08-28T12:31:53.735Z"
@@ -2602,10 +2602,10 @@
             "language": "Vim Script",
             "license": "Vim",
             "last_commit": "2026-09-02T21:38:45Z",
-            "open_issues": 1624,
+            "open_issues": 1630,
             "owner": "vim",
             "repo": "vim",
-            "stars": 40849,
+            "stars": 40852,
             "topics": [
               "c",
               "cross-platform",
@@ -2628,10 +2628,10 @@
             "language": "Vim Script",
             "license": "Vim",
             "last_commit": "2026-09-02T21:38:45Z",
-            "open_issues": 1624,
+            "open_issues": 1630,
             "owner": "vim",
             "repo": "vim",
-            "stars": 40849,
+            "stars": 40852,
             "topics": [
               "c",
               "cross-platform",
@@ -2654,10 +2654,10 @@
             "language": "Vim Script",
             "license": "Vim",
             "last_commit": "2026-09-02T21:38:45Z",
-            "open_issues": 1624,
+            "open_issues": 1630,
             "owner": "vim",
             "repo": "vim",
-            "stars": 40849,
+            "stars": 40852,
             "topics": [
               "c",
               "cross-platform",
@@ -2680,10 +2680,10 @@
             "language": "Vim Script",
             "license": "Vim",
             "last_commit": "2026-09-02T21:38:45Z",
-            "open_issues": 1624,
+            "open_issues": 1630,
             "owner": "vim",
             "repo": "vim",
-            "stars": 40849,
+            "stars": 40852,
             "topics": [
               "c",
               "cross-platform",
@@ -2706,10 +2706,10 @@
             "language": "Vim Script",
             "license": "Vim",
             "last_commit": "2026-09-02T21:38:45Z",
-            "open_issues": 1624,
+            "open_issues": 1630,
             "owner": "vim",
             "repo": "vim",
-            "stars": 40849,
+            "stars": 40852,
             "topics": [
               "c",
               "cross-platform",
@@ -2732,10 +2732,10 @@
             "language": "Vim Script",
             "license": "Vim",
             "last_commit": "2026-09-02T21:38:45Z",
-            "open_issues": 1624,
+            "open_issues": 1630,
             "owner": "vim",
             "repo": "vim",
-            "stars": 40849,
+            "stars": 40852,
             "topics": [
               "c",
               "cross-platform",
@@ -2758,10 +2758,10 @@
             "language": "Vim Script",
             "license": "Vim",
             "last_commit": "2026-09-02T21:38:45Z",
-            "open_issues": 1624,
+            "open_issues": 1630,
             "owner": "vim",
             "repo": "vim",
-            "stars": 40849,
+            "stars": 40852,
             "topics": [
               "c",
               "cross-platform",
@@ -2856,7 +2856,7 @@
             "id": 74715843,
             "language": "Vim Script",
             "license": null,
-            "last_commit": "2026-07-28T11:00:39Z",
+            "last_commit": "2026-09-03T09:28:42Z",
             "open_issues": 0,
             "owner": "bennyyip",
             "repo": "dot-vim",
@@ -2936,7 +2936,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T05:30:16.848Z",
+    "last_updated": "2026-09-04T05:34:41.746Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collection of awesome vim9script plugins.",
