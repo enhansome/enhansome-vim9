@@ -77,9 +77,40 @@
             ]
           },
           "first_seen": "2026-08-28T12:31:53.735Z"
+        },
+        {
+          "node_type": "item",
+          "title": "russt/vimgem",
+          "description": "Explore AI models from your trusty Vim editor. ⭐2",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Explore AI models from your trusty Vim editor.",
+            "homepage": null,
+            "id": 1116479399,
+            "language": "Vim Script",
+            "license": "MIT",
+            "last_commit": "2026-09-17T20:41:32Z",
+            "open_issues": 2,
+            "owner": "russt",
+            "repo": "vimgem",
+            "stars": 2,
+            "topics": [
+              "gfm",
+              "llm",
+              "markdown-parser",
+              "markdown-viewer",
+              "openai-api",
+              "vim",
+              "vim-plugins",
+              "vim9-plugin",
+              "vimscript"
+            ]
+          },
+          "first_seen": "2026-09-22T05:53:40.042Z"
         }
       ],
-      "title": "AI Assistants"
+      "title": "AI"
     },
     {
       "description": null,
@@ -100,7 +131,7 @@
             "open_issues": 2,
             "owner": "chrispane11",
             "repo": "miniterm.vim",
-            "stars": 25,
+            "stars": 24,
             "topics": [
               "vim",
               "vim-plugin",
@@ -248,7 +279,7 @@
             "open_issues": 0,
             "owner": "girishji",
             "repo": "vimcomplete",
-            "stars": 183,
+            "stars": 182,
             "topics": [
               "autocomplete",
               "autocomplete-suggestions",
@@ -681,7 +712,7 @@
             "id": 634428407,
             "language": "Vim Script",
             "license": "MIT",
-            "last_commit": "2026-09-20T19:44:49Z",
+            "last_commit": "2026-09-21T07:10:38Z",
             "open_issues": 1,
             "owner": "vim-fuzzbox",
             "repo": "fuzzbox.vim",
@@ -1521,7 +1552,7 @@
         {
           "node_type": "item",
           "title": "yegappan/lsp",
-          "description": "Language Server Protocol (LSP) plugin for Vim9 ⭐779",
+          "description": "Language Server Protocol (LSP) plugin for Vim9 ⭐780",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1551,7 +1582,7 @@
             "id": 1341522844,
             "language": "Vim Script",
             "license": "Vim",
-            "last_commit": "2026-09-20T20:04:55Z",
+            "last_commit": "2026-09-21T17:49:01Z",
             "open_issues": 0,
             "owner": "h-east",
             "repo": "lsp.vim",
@@ -1675,6 +1706,37 @@
             ]
           },
           "first_seen": "2026-08-28T12:31:53.735Z"
+        },
+        {
+          "node_type": "item",
+          "title": "russt/vimgem",
+          "description": "Explore AI models from your trusty Vim editor. ⭐2",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Explore AI models from your trusty Vim editor.",
+            "homepage": null,
+            "id": 1116479399,
+            "language": "Vim Script",
+            "license": "MIT",
+            "last_commit": "2026-09-17T20:41:32Z",
+            "open_issues": 2,
+            "owner": "russt",
+            "repo": "vimgem",
+            "stars": 2,
+            "topics": [
+              "gfm",
+              "llm",
+              "markdown-parser",
+              "markdown-viewer",
+              "openai-api",
+              "vim",
+              "vim-plugins",
+              "vim9-plugin",
+              "vimscript"
+            ]
+          },
+          "first_seen": "2026-09-22T05:53:40.042Z"
         },
         {
           "node_type": "item",
@@ -1839,7 +1901,7 @@
             "open_issues": 1,
             "owner": "ubaldot",
             "repo": "vim-helpme",
-            "stars": 11,
+            "stars": 10,
             "topics": [
               "vim",
               "vim-plugin"
@@ -2174,7 +2236,7 @@
         {
           "node_type": "item",
           "title": "vim-airline/vim-airline",
-          "description": "lean & mean status/tabline for vim that's light as air ⭐17965",
+          "description": "lean & mean status/tabline for vim that's light as air ⭐17967",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2574,11 +2636,11 @@
             "id": 40997482,
             "language": "Vim Script",
             "license": "Vim",
-            "last_commit": "2026-09-19T15:53:21Z",
+            "last_commit": "2026-09-21T20:42:56Z",
             "open_issues": 1630,
             "owner": "vim",
             "repo": "vim",
-            "stars": 40911,
+            "stars": 40916,
             "topics": [
               "c",
               "cross-platform",
@@ -2600,11 +2662,11 @@
             "id": 40997482,
             "language": "Vim Script",
             "license": "Vim",
-            "last_commit": "2026-09-19T15:53:21Z",
+            "last_commit": "2026-09-21T20:42:56Z",
             "open_issues": 1630,
             "owner": "vim",
             "repo": "vim",
-            "stars": 40911,
+            "stars": 40916,
             "topics": [
               "c",
               "cross-platform",
@@ -2626,11 +2688,11 @@
             "id": 40997482,
             "language": "Vim Script",
             "license": "Vim",
-            "last_commit": "2026-09-19T15:53:21Z",
+            "last_commit": "2026-09-21T20:42:56Z",
             "open_issues": 1630,
             "owner": "vim",
             "repo": "vim",
-            "stars": 40911,
+            "stars": 40916,
             "topics": [
               "c",
               "cross-platform",
@@ -2652,11 +2714,11 @@
             "id": 40997482,
             "language": "Vim Script",
             "license": "Vim",
-            "last_commit": "2026-09-19T15:53:21Z",
+            "last_commit": "2026-09-21T20:42:56Z",
             "open_issues": 1630,
             "owner": "vim",
             "repo": "vim",
-            "stars": 40911,
+            "stars": 40916,
             "topics": [
               "c",
               "cross-platform",
@@ -2678,11 +2740,11 @@
             "id": 40997482,
             "language": "Vim Script",
             "license": "Vim",
-            "last_commit": "2026-09-19T15:53:21Z",
+            "last_commit": "2026-09-21T20:42:56Z",
             "open_issues": 1630,
             "owner": "vim",
             "repo": "vim",
-            "stars": 40911,
+            "stars": 40916,
             "topics": [
               "c",
               "cross-platform",
@@ -2704,11 +2766,11 @@
             "id": 40997482,
             "language": "Vim Script",
             "license": "Vim",
-            "last_commit": "2026-09-19T15:53:21Z",
+            "last_commit": "2026-09-21T20:42:56Z",
             "open_issues": 1630,
             "owner": "vim",
             "repo": "vim",
-            "stars": 40911,
+            "stars": 40916,
             "topics": [
               "c",
               "cross-platform",
@@ -2730,11 +2792,11 @@
             "id": 40997482,
             "language": "Vim Script",
             "license": "Vim",
-            "last_commit": "2026-09-19T15:53:21Z",
+            "last_commit": "2026-09-21T20:42:56Z",
             "open_issues": 1630,
             "owner": "vim",
             "repo": "vim",
-            "stars": 40911,
+            "stars": 40916,
             "topics": [
               "c",
               "cross-platform",
@@ -2762,7 +2824,7 @@
             "id": 36975500,
             "language": "Vim Script",
             "license": null,
-            "last_commit": "2026-09-20T10:10:51Z",
+            "last_commit": "2026-09-22T01:41:35Z",
             "open_issues": 0,
             "owner": "habamax",
             "repo": ".vim",
@@ -2909,7 +2971,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T05:56:22.410Z",
+    "last_updated": "2026-09-22T05:53:40.042Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collection of awesome vim9script plugins.",
@@ -2917,11 +2979,11 @@
       "id": 763100952,
       "language": "Python",
       "license": "CC0-1.0",
-      "last_commit": "2026-09-19T18:55:36Z",
-      "open_issues": 1,
+      "last_commit": "2026-09-21T10:19:45Z",
+      "open_issues": 0,
       "owner": "saccarosium",
       "repo": "awesome-vim9",
-      "stars": 208,
+      "stars": 207,
       "topics": [
         "awesome-list",
         "vim9",
@@ -2930,7 +2992,7 @@
         "vim9script"
       ]
     },
-    "original_repository_sha": "9cda348b49163ab95e1658784ed6f19507993617",
+    "original_repository_sha": "71517ee28aa543c0f404b406a80ed43863a171a1",
     "enhanced_repository": "enhansome/enhansome-vim9",
     "enhanced_repository_description": null,
     "title": "Awesome-Vim9 with stars"
