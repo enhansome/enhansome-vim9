@@ -93,7 +93,7 @@ To submit a new plugin read [CONTRIBUTING.md](./CONTRIBUTING.md) first.
 | [ycm/poplar.vim](https://github.com/ycm/poplar.vim) ⭐ 23 \| 🐛 2 \| 🌐 Vim Script \| 📅 2026-05-09                  | Popup filetree and pinned files for vim9              | ⭐23 |
 | [nda-cunh/SupraTree](https://github.com/nda-cunh/SupraTree) ⭐ 1 \| 🐛 0 \| 🌐 Vim Script \| 📅 2026-09-21           | A tree for vim                                        | ⭐1  |
 | [nda-cunh/SupraWater](https://github.com/nda-cunh/SupraWater) ⭐ 4 \| 🐛 0 \| 🌐 Vim Script \| 📅 2026-07-20         | 🌊 Vim9script plugin File-Manager like nvim-oil       | ⭐4  |
-| [habamax/vim-dir](https://github.com/habamax/vim-dir) ⭐ 76 \| 🐛 4 \| 🌐 Vim Script \| 📅 2026-08-13                | Vim file manager                                      | ⭐75 |
+| [habamax/vim-dir](https://github.com/habamax/vim-dir) ⭐ 77 \| 🐛 5 \| 🌐 Vim Script \| 📅 2026-08-13                | Vim file manager                                      | ⭐75 |
 | [saccarosium/vim-netrw-salad](https://github.com/saccarosium/vim-netrw-salad) ⚠️ Archived                           | A delicious salad to go with your beloved netrw.      | ⭐2  |
 | [ubaldot/vim-open-recent](https://github.com/ubaldot/vim-open-recent) ⭐ 3 \| 🐛 0 \| 🌐 Vim Script \| 📅 2025-03-10 | Open recent files from a popup menu. Written in Vim9. | ⭐3  |
 
@@ -156,8 +156,8 @@ To submit a new plugin read [CONTRIBUTING.md](./CONTRIBUTING.md) first.
 |                                                                                                                            |                                                                    |      |
 | -------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ | ---- |
 | [DanielViberg/lsp](https://github.com/DanielViberg/lsp) ⭐ 2 \| 🐛 1 \| 🌐 Vim Script \| 📅 2026-08-29                      | A lightweight, pure vim9script lsp client                          | ⭐2   |
-| [yegappan/lsp](https://github.com/yegappan/lsp/tree/main) ⭐ 784 \| 🐛 113 \| 🌐 Vim Script \| 📅 2026-09-06                | Language Server Protocol (LSP) plugin for Vim9                     | ⭐780 |
-| [h-east/lsp.vim](https://github.com/h-east/lsp.vim) ⭐ 8 \| 🐛 0 \| 🌐 Vim Script \| 📅 2026-09-29                          | A Language Server Protocol client for Vim, written in Vim9 script. | ⭐8   |
+| [yegappan/lsp](https://github.com/yegappan/lsp/tree/main) ⭐ 785 \| 🐛 113 \| 🌐 Vim Script \| 📅 2026-09-06                | Language Server Protocol (LSP) plugin for Vim9                     | ⭐780 |
+| [h-east/lsp.vim](https://github.com/h-east/lsp.vim) ⭐ 8 \| 🐛 0 \| 🌐 Vim Script \| 📅 2026-10-01                          | A Language Server Protocol client for Vim, written in Vim9 script. | ⭐8   |
 | [creativenull/vim-lspclient](https://github.com/creativenull/vim-lspclient) ⭐ 18 \| 🐛 0 \| 🌐 Vim Script \| 📅 2022-09-01 | A highly experimental lsp client for vim. Written in vim9script.   | ⭐18  |
 | [saccarosium/yegappan-lsp-settings](https://github.com/saccarosium/yegappan-lsp-settings) ⚠️ Archived                      | Quickstart configs for yeggapan lsp client                         | ⭐4   |
 
@@ -250,19 +250,19 @@ To submit a new plugin read [CONTRIBUTING.md](./CONTRIBUTING.md) first.
 
 |                                                                                                                                                               |                       |         |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------- | ------- |
-| [vim/.../pack/.../cfilter](https://github.com/vim/vim/tree/master/runtime/pack/dist/opt/cfilter) ⭐ 41,003 \| 🐛 1,628 \| 🌐 Vim Script \| 📅 2026-09-29       | :h package-cfilter    | **N/A** |
-| [vim/.../pack/.../comment](https://github.com/vim/vim/tree/master/runtime/pack/dist/opt/comment/) ⭐ 41,003 \| 🐛 1,628 \| 🌐 Vim Script \| 📅 2026-09-29      | :h package-comment    | **N/A** |
-| [vim/.../pack/.../helpcurwin](https://github.com/vim/vim/tree/master/runtime/pack/dist/opt/helpcurwin) ⭐ 41,003 \| 🐛 1,628 \| 🌐 Vim Script \| 📅 2026-09-29 | :h package-helpcurwin | **N/A** |
-| [vim/.../pack/.../helptoc](https://github.com/vim/vim/tree/master/runtime/pack/dist/opt/helptoc) ⭐ 41,003 \| 🐛 1,628 \| 🌐 Vim Script \| 📅 2026-09-29       | :h package-helptoc    | **N/A** |
-| [vim/.../pack/.../hlyank](https://github.com/vim/vim/tree/master/runtime/pack/dist/opt/hlyank/) ⭐ 41,003 \| 🐛 1,628 \| 🌐 Vim Script \| 📅 2026-09-29        | :h package-hlyank     | **N/A** |
-| [vim/.../pack/.../osc52](https://github.com/vim/vim/tree/master/runtime/pack/dist/opt/osc52) ⭐ 41,003 \| 🐛 1,628 \| 🌐 Vim Script \| 📅 2026-09-29           | :h package-osc52      | **N/A** |
-| [vim/.../pack/.../termdebug](https://github.com/vim/vim/tree/master/runtime/pack/dist/opt/termdebug) ⭐ 41,003 \| 🐛 1,628 \| 🌐 Vim Script \| 📅 2026-09-29   | :h package-termdebug  | **N/A** |
+| [vim/.../pack/.../cfilter](https://github.com/vim/vim/tree/master/runtime/pack/dist/opt/cfilter) ⭐ 41,005 \| 🐛 1,623 \| 🌐 Vim Script \| 📅 2026-09-30       | :h package-cfilter    | **N/A** |
+| [vim/.../pack/.../comment](https://github.com/vim/vim/tree/master/runtime/pack/dist/opt/comment/) ⭐ 41,005 \| 🐛 1,623 \| 🌐 Vim Script \| 📅 2026-09-30      | :h package-comment    | **N/A** |
+| [vim/.../pack/.../helpcurwin](https://github.com/vim/vim/tree/master/runtime/pack/dist/opt/helpcurwin) ⭐ 41,005 \| 🐛 1,623 \| 🌐 Vim Script \| 📅 2026-09-30 | :h package-helpcurwin | **N/A** |
+| [vim/.../pack/.../helptoc](https://github.com/vim/vim/tree/master/runtime/pack/dist/opt/helptoc) ⭐ 41,005 \| 🐛 1,623 \| 🌐 Vim Script \| 📅 2026-09-30       | :h package-helptoc    | **N/A** |
+| [vim/.../pack/.../hlyank](https://github.com/vim/vim/tree/master/runtime/pack/dist/opt/hlyank/) ⭐ 41,005 \| 🐛 1,623 \| 🌐 Vim Script \| 📅 2026-09-30        | :h package-hlyank     | **N/A** |
+| [vim/.../pack/.../osc52](https://github.com/vim/vim/tree/master/runtime/pack/dist/opt/osc52) ⭐ 41,005 \| 🐛 1,623 \| 🌐 Vim Script \| 📅 2026-09-30           | :h package-osc52      | **N/A** |
+| [vim/.../pack/.../termdebug](https://github.com/vim/vim/tree/master/runtime/pack/dist/opt/termdebug) ⭐ 41,005 \| 🐛 1,623 \| 🌐 Vim Script \| 📅 2026-09-30   | :h package-termdebug  | **N/A** |
 
 ## Vimrc
 
 |                                                                                                                      |                                                       |     |
 | -------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------- | --- |
-| [habamax/.vim](https://github.com/habamax/.vim) ⭐ 85 \| 🐛 0 \| 🌐 Vim Script \| 📅 2026-09-29                       | Personal .vim                                         | ⭐85 |
+| [habamax/.vim](https://github.com/habamax/.vim) ⭐ 85 \| 🐛 0 \| 🌐 Vim Script \| 📅 2026-10-01                       | Personal .vim                                         | ⭐85 |
 | [kennypete/.vimrc](https://github.com/kennypete/.vimrc) ⭐ 4 \| 🐛 0 \| 🌐 Vim Script \| 📅 2026-07-29                | My .vimrc                                             | ⭐4  |
 | [lacygoill/config](https://github.com/lacygoill/config/tree/main/.vim) ⭐ 0 \| 🐛 0 \| 🌐 Vim Script \| 📅 2026-09-20 | *No description provided.*                            | ⭐0  |
 | [bennyyip/dot-vim](https://github.com/bennyyip/dot-vim) ⭐ 9 \| 🐛 0 \| 🌐 Vim Script \| 📅 2026-09-14                | *No description provided.*                            | ⭐9  |
@@ -273,4 +273,4 @@ To submit a new plugin read [CONTRIBUTING.md](./CONTRIBUTING.md) first.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-01._
