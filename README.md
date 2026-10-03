@@ -269,7 +269,7 @@ To submit a new plugin read [CONTRIBUTING.md](./CONTRIBUTING.md) first.
 | [mao-yining/dotfile\_vim](https://codeberg.org/mao-yining/dotfile_vim)                                               | *No description provided.*                            | ⭐1  |
 | [64-bitman/vim-config](https://github.com/64-bitman/vim-config) ⭐ 2 \| 🐛 0 \| 🌐 Vim Script \| 📅 2026-09-14        | *No description provided.*                            | ⭐2  |
 | [ShayHill/vimfiles](https://github.com/ShayHill/vimfiles) ⭐ 1 \| 🐛 0 \| 🌐 Vim Script \| 📅 2026-09-08              | my personal vimfiles for mostly Python dev on Windows | ⭐1  |
-| [beamiter/vimrc](https://github.com/beamiter/vimrc/) ⭐ 4 \| 🐛 0 \| 🌐 Vim Script \| 📅 2026-08-21                   | vimrc                                                 | ⭐4  |
+| [beamiter/vimrc](https://github.com/beamiter/vimrc/) ⭐ 4 \| 🐛 0 \| 🌐 Vim Script \| 📅 2026-10-03                   | vimrc                                                 | ⭐4  |
 
 ***
 

@@ -2957,7 +2957,7 @@
             "id": 281876251,
             "language": "Vim Script",
             "license": null,
-            "last_commit": "2026-08-21T03:12:10Z",
+            "last_commit": "2026-10-03T05:48:08Z",
             "open_issues": 0,
             "owner": "beamiter",
             "repo": "vimrc",
@@ -2971,7 +2971,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T05:14:57.177Z",
+    "last_updated": "2026-10-03T06:04:23.629Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collection of awesome vim9script plugins.",
