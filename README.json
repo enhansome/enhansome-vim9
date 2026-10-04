@@ -118,7 +118,7 @@
         {
           "node_type": "item",
           "title": "hahdookin/miniterm.vim",
-          "description": "Simple Vim9 toggle-terminal manager ⭐25",
+          "description": "Simple Vim9 toggle-terminal manager ⭐24",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -266,7 +266,7 @@
         {
           "node_type": "item",
           "title": "girishji/vimcomplete",
-          "description": "Async autocompletion for Vim. ⭐183",
+          "description": "Async autocompletion for Vim. ⭐182",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -624,7 +624,7 @@
         {
           "node_type": "item",
           "title": "habamax/vim-dir",
-          "description": "Vim file manager ⭐75",
+          "description": "Vim file manager ⭐77",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -712,11 +712,11 @@
             "id": 634428407,
             "language": "Vim Script",
             "license": "MIT",
-            "last_commit": "2026-10-02T13:26:59Z",
+            "last_commit": "2026-10-03T12:05:13Z",
             "open_issues": 1,
             "owner": "vim-fuzzbox",
             "repo": "fuzzbox.vim",
-            "stars": 164,
+            "stars": 163,
             "topics": [
               "fuzzy",
               "fuzzy-finder",
@@ -762,7 +762,7 @@
         {
           "node_type": "item",
           "title": "girishji/scope.vim",
-          "description": "Minimal, fast, and extensible fuzzy finder. ⭐90",
+          "description": "Minimal, fast, and extensible fuzzy finder. ⭐89",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -775,7 +775,7 @@
             "open_issues": 3,
             "owner": "girishji",
             "repo": "scope.vim",
-            "stars": 90,
+            "stars": 89,
             "topics": [
               "vim",
               "vim-plugin",
@@ -1552,7 +1552,7 @@
         {
           "node_type": "item",
           "title": "yegappan/lsp",
-          "description": "Language Server Protocol (LSP) plugin for Vim9 ⭐780",
+          "description": "Language Server Protocol (LSP) plugin for Vim9 ⭐784",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1573,7 +1573,7 @@
         {
           "node_type": "item",
           "title": "h-east/lsp.vim",
-          "description": "A Language Server Protocol client for Vim, written in Vim9 script. ⭐8",
+          "description": "A Language Server Protocol client for Vim, written in Vim9 script. ⭐10",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1582,7 +1582,7 @@
             "id": 1341522844,
             "language": "Vim Script",
             "license": "Vim",
-            "last_commit": "2026-10-02T13:31:46Z",
+            "last_commit": "2026-10-04T05:55:12Z",
             "open_issues": 0,
             "owner": "h-east",
             "repo": "lsp.vim",
@@ -1888,7 +1888,7 @@
         {
           "node_type": "item",
           "title": "ubaldot/vim-helpme",
-          "description": "Can't you remember stuff? Try this! ⭐11",
+          "description": "Can't you remember stuff? Try this! ⭐10",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1933,52 +1933,6 @@
               "vim9",
               "vim9-plugin"
             ]
-          },
-          "first_seen": "2026-08-28T12:31:53.735Z"
-        },
-        {
-          "node_type": "item",
-          "title": "ubaldot/vim9-conversion-aid",
-          "description": "A little help for upgrading your scripts to vim9 language. ⭐17",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A little help for upgrading your scripts to vim9 language.",
-            "homepage": null,
-            "id": 831406730,
-            "language": "Vim Script",
-            "license": null,
-            "last_commit": "2026-08-21T05:03:21Z",
-            "open_issues": 0,
-            "owner": "ubaldot",
-            "repo": "vim9-conversion-aid",
-            "stars": 17,
-            "topics": [
-              "vim",
-              "vim9",
-              "vim9-plugin"
-            ]
-          },
-          "first_seen": "2026-08-28T12:31:53.735Z"
-        },
-        {
-          "node_type": "item",
-          "title": "lacygoill/vim9asm",
-          "description": "No description provided. ⭐24",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": null,
-            "homepage": null,
-            "id": 358062372,
-            "language": "Vim Script",
-            "license": null,
-            "last_commit": "2025-07-25T18:35:40Z",
-            "open_issues": 3,
-            "owner": "lacygoill",
-            "repo": "vim9asm",
-            "stars": 24,
-            "topics": []
           },
           "first_seen": "2026-08-28T12:31:53.735Z"
         },
@@ -2210,7 +2164,7 @@
         {
           "node_type": "item",
           "title": "Bakudankun/qline.vim",
-          "description": "The quick, fully-customizable status line plugin written in cutting-edge Vim9 script. ⭐44",
+          "description": "The quick, fully-customizable status line plugin written in cutting-edge Vim9 script. ⭐43",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2236,7 +2190,7 @@
         {
           "node_type": "item",
           "title": "vim-airline/vim-airline",
-          "description": "lean & mean status/tabline for vim that's light as air ⭐17967",
+          "description": "lean & mean status/tabline for vim that's light as air ⭐17973",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2249,7 +2203,7 @@
             "open_issues": 37,
             "owner": "vim-airline",
             "repo": "vim-airline",
-            "stars": 17971,
+            "stars": 17972,
             "topics": [
               "statusline",
               "tabline",
@@ -2290,7 +2244,7 @@
         {
           "node_type": "item",
           "title": "ShayHill/vim9-limelight",
-          "description": "Shade unfocused windows. Give a bright statusline color for active windows when splits are open. ⭐10",
+          "description": "Shade unfocused windows. Give a bright statusline color for active windows when splits are open. ⭐9",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2636,11 +2590,11 @@
             "id": 40997482,
             "language": "Vim Script",
             "license": "Vim",
-            "last_commit": "2026-10-03T02:34:00Z",
-            "open_issues": 1636,
+            "last_commit": "2026-10-03T14:59:03Z",
+            "open_issues": 1642,
             "owner": "vim",
             "repo": "vim",
-            "stars": 41016,
+            "stars": 41068,
             "topics": [
               "c",
               "cross-platform",
@@ -2662,11 +2616,11 @@
             "id": 40997482,
             "language": "Vim Script",
             "license": "Vim",
-            "last_commit": "2026-10-03T02:34:00Z",
-            "open_issues": 1636,
+            "last_commit": "2026-10-03T14:59:03Z",
+            "open_issues": 1642,
             "owner": "vim",
             "repo": "vim",
-            "stars": 41016,
+            "stars": 41068,
             "topics": [
               "c",
               "cross-platform",
@@ -2688,11 +2642,11 @@
             "id": 40997482,
             "language": "Vim Script",
             "license": "Vim",
-            "last_commit": "2026-10-03T02:34:00Z",
-            "open_issues": 1636,
+            "last_commit": "2026-10-03T14:59:03Z",
+            "open_issues": 1642,
             "owner": "vim",
             "repo": "vim",
-            "stars": 41016,
+            "stars": 41068,
             "topics": [
               "c",
               "cross-platform",
@@ -2714,11 +2668,11 @@
             "id": 40997482,
             "language": "Vim Script",
             "license": "Vim",
-            "last_commit": "2026-10-03T02:34:00Z",
-            "open_issues": 1636,
+            "last_commit": "2026-10-03T14:59:03Z",
+            "open_issues": 1642,
             "owner": "vim",
             "repo": "vim",
-            "stars": 41016,
+            "stars": 41068,
             "topics": [
               "c",
               "cross-platform",
@@ -2740,11 +2694,11 @@
             "id": 40997482,
             "language": "Vim Script",
             "license": "Vim",
-            "last_commit": "2026-10-03T02:34:00Z",
-            "open_issues": 1636,
+            "last_commit": "2026-10-03T14:59:03Z",
+            "open_issues": 1642,
             "owner": "vim",
             "repo": "vim",
-            "stars": 41016,
+            "stars": 41068,
             "topics": [
               "c",
               "cross-platform",
@@ -2766,11 +2720,11 @@
             "id": 40997482,
             "language": "Vim Script",
             "license": "Vim",
-            "last_commit": "2026-10-03T02:34:00Z",
-            "open_issues": 1636,
+            "last_commit": "2026-10-03T14:59:03Z",
+            "open_issues": 1642,
             "owner": "vim",
             "repo": "vim",
-            "stars": 41016,
+            "stars": 41068,
             "topics": [
               "c",
               "cross-platform",
@@ -2792,11 +2746,11 @@
             "id": 40997482,
             "language": "Vim Script",
             "license": "Vim",
-            "last_commit": "2026-10-03T02:34:00Z",
-            "open_issues": 1636,
+            "last_commit": "2026-10-03T14:59:03Z",
+            "open_issues": 1642,
             "owner": "vim",
             "repo": "vim",
-            "stars": 41016,
+            "stars": 41068,
             "topics": [
               "c",
               "cross-platform",
@@ -2814,6 +2768,100 @@
       "items": [
         {
           "node_type": "item",
+          "title": "ubaldot/vim9-conversion-aid",
+          "description": "A little help for upgrading your scripts to vim9 language. ⭐17",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A little help for upgrading your scripts to vim9 language.",
+            "homepage": null,
+            "id": 831406730,
+            "language": "Vim Script",
+            "license": null,
+            "last_commit": "2026-08-21T05:03:21Z",
+            "open_issues": 0,
+            "owner": "ubaldot",
+            "repo": "vim9-conversion-aid",
+            "stars": 17,
+            "topics": [
+              "vim",
+              "vim9",
+              "vim9-plugin"
+            ]
+          },
+          "first_seen": "2026-08-28T12:31:53.735Z"
+        },
+        {
+          "node_type": "item",
+          "title": "lacygoill/vim9asm",
+          "description": "No description provided. ⭐24",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": null,
+            "homepage": null,
+            "id": 358062372,
+            "language": "Vim Script",
+            "license": null,
+            "last_commit": "2025-07-25T18:35:40Z",
+            "open_issues": 3,
+            "owner": "lacygoill",
+            "repo": "vim9asm",
+            "stars": 24,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T12:31:53.735Z"
+        },
+        {
+          "node_type": "item",
+          "title": "h-east/vim9ls",
+          "description": "A language server for Vim script, run by Vim itself ⭐13",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A language server for Vim script, run by Vim itself",
+            "homepage": null,
+            "id": 1360473879,
+            "language": "Vim Script",
+            "license": "Vim",
+            "last_commit": "2026-10-02T17:43:59Z",
+            "open_issues": 0,
+            "owner": "h-east",
+            "repo": "vim9ls",
+            "stars": 13,
+            "topics": []
+          },
+          "first_seen": "2026-10-04T06:38:33.647Z"
+        },
+        {
+          "node_type": "item",
+          "title": "neoclide/vimls-go",
+          "description": "Vim script language server written in go ⭐18",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Vim script language server written in go",
+            "homepage": null,
+            "id": 1351291046,
+            "language": "Go",
+            "license": null,
+            "last_commit": "2026-10-01T19:41:23Z",
+            "open_issues": 1,
+            "owner": "neoclide",
+            "repo": "vimls-go",
+            "stars": 19,
+            "topics": []
+          },
+          "first_seen": "2026-10-04T06:38:33.647Z"
+        }
+      ],
+      "title": "Vim9 Script"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
           "title": "habamax/.vim",
           "description": "Personal .vim ⭐85",
           "children": [],
@@ -2824,7 +2872,7 @@
             "id": 36975500,
             "language": "Vim Script",
             "license": null,
-            "last_commit": "2026-10-02T09:30:52Z",
+            "last_commit": "2026-10-03T11:36:22Z",
             "open_issues": 0,
             "owner": "habamax",
             "repo": ".vim",
@@ -2971,7 +3019,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T06:04:23.629Z",
+    "last_updated": "2026-10-04T06:38:33.647Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collection of awesome vim9script plugins.",
@@ -2979,8 +3027,8 @@
       "id": 763100952,
       "language": "Python",
       "license": "CC0-1.0",
-      "last_commit": "2026-09-21T10:19:45Z",
-      "open_issues": 1,
+      "last_commit": "2026-10-03T17:20:31Z",
+      "open_issues": 0,
       "owner": "saccarosium",
       "repo": "awesome-vim9",
       "stars": 208,
@@ -2992,7 +3040,7 @@
         "vim9script"
       ]
     },
-    "original_repository_sha": "71517ee28aa543c0f404b406a80ed43863a171a1",
+    "original_repository_sha": "fec4c9cadef63990c23ca0a1e3c364769dfeebf3",
     "enhanced_repository": "enhansome/enhansome-vim9",
     "enhanced_repository_description": null,
     "title": "Awesome-Vim9 with stars"
