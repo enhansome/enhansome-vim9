@@ -249,13 +249,13 @@ To submit a new plugin read [CONTRIBUTING.md](./CONTRIBUTING.md) first.
 
 |                                                                                                                                                               |                       |         |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------- | ------- |
-| [vim/.../pack/.../cfilter](https://github.com/vim/vim/tree/master/runtime/pack/dist/opt/cfilter) ⭐ 41,126 \| 🐛 1,654 \| 🌐 Vim Script \| 📅 2026-10-05       | :h package-cfilter    | **N/A** |
-| [vim/.../pack/.../comment](https://github.com/vim/vim/tree/master/runtime/pack/dist/opt/comment/) ⭐ 41,126 \| 🐛 1,654 \| 🌐 Vim Script \| 📅 2026-10-05      | :h package-comment    | **N/A** |
-| [vim/.../pack/.../helpcurwin](https://github.com/vim/vim/tree/master/runtime/pack/dist/opt/helpcurwin) ⭐ 41,126 \| 🐛 1,654 \| 🌐 Vim Script \| 📅 2026-10-05 | :h package-helpcurwin | **N/A** |
-| [vim/.../pack/.../helptoc](https://github.com/vim/vim/tree/master/runtime/pack/dist/opt/helptoc) ⭐ 41,126 \| 🐛 1,654 \| 🌐 Vim Script \| 📅 2026-10-05       | :h package-helptoc    | **N/A** |
-| [vim/.../pack/.../hlyank](https://github.com/vim/vim/tree/master/runtime/pack/dist/opt/hlyank/) ⭐ 41,126 \| 🐛 1,654 \| 🌐 Vim Script \| 📅 2026-10-05        | :h package-hlyank     | **N/A** |
-| [vim/.../pack/.../osc52](https://github.com/vim/vim/tree/master/runtime/pack/dist/opt/osc52) ⭐ 41,126 \| 🐛 1,654 \| 🌐 Vim Script \| 📅 2026-10-05           | :h package-osc52      | **N/A** |
-| [vim/.../pack/.../termdebug](https://github.com/vim/vim/tree/master/runtime/pack/dist/opt/termdebug) ⭐ 41,126 \| 🐛 1,654 \| 🌐 Vim Script \| 📅 2026-10-05   | :h package-termdebug  | **N/A** |
+| [vim/.../pack/.../cfilter](https://github.com/vim/vim/tree/master/runtime/pack/dist/opt/cfilter) ⭐ 41,134 \| 🐛 1,655 \| 🌐 Vim Script \| 📅 2026-10-05       | :h package-cfilter    | **N/A** |
+| [vim/.../pack/.../comment](https://github.com/vim/vim/tree/master/runtime/pack/dist/opt/comment/) ⭐ 41,134 \| 🐛 1,655 \| 🌐 Vim Script \| 📅 2026-10-05      | :h package-comment    | **N/A** |
+| [vim/.../pack/.../helpcurwin](https://github.com/vim/vim/tree/master/runtime/pack/dist/opt/helpcurwin) ⭐ 41,134 \| 🐛 1,655 \| 🌐 Vim Script \| 📅 2026-10-05 | :h package-helpcurwin | **N/A** |
+| [vim/.../pack/.../helptoc](https://github.com/vim/vim/tree/master/runtime/pack/dist/opt/helptoc) ⭐ 41,134 \| 🐛 1,655 \| 🌐 Vim Script \| 📅 2026-10-05       | :h package-helptoc    | **N/A** |
+| [vim/.../pack/.../hlyank](https://github.com/vim/vim/tree/master/runtime/pack/dist/opt/hlyank/) ⭐ 41,134 \| 🐛 1,655 \| 🌐 Vim Script \| 📅 2026-10-05        | :h package-hlyank     | **N/A** |
+| [vim/.../pack/.../osc52](https://github.com/vim/vim/tree/master/runtime/pack/dist/opt/osc52) ⭐ 41,134 \| 🐛 1,655 \| 🌐 Vim Script \| 📅 2026-10-05           | :h package-osc52      | **N/A** |
+| [vim/.../pack/.../termdebug](https://github.com/vim/vim/tree/master/runtime/pack/dist/opt/termdebug) ⭐ 41,134 \| 🐛 1,655 \| 🌐 Vim Script \| 📅 2026-10-05   | :h package-termdebug  | **N/A** |
 
 ## Vim9 Script
 
