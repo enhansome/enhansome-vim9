@@ -1562,10 +1562,10 @@
             "language": "Vim Script",
             "license": "MIT",
             "last_commit": "2026-09-06T05:22:17Z",
-            "open_issues": 113,
+            "open_issues": 114,
             "owner": "yegappan",
             "repo": "lsp",
-            "stars": 788,
+            "stars": 789,
             "topics": []
           },
           "first_seen": "2026-08-28T12:31:53.735Z"
@@ -2203,7 +2203,7 @@
             "open_issues": 37,
             "owner": "vim-airline",
             "repo": "vim-airline",
-            "stars": 17972,
+            "stars": 17971,
             "topics": [
               "statusline",
               "tabline",
@@ -2591,10 +2591,10 @@
             "language": "Vim Script",
             "license": "Vim",
             "last_commit": "2026-10-07T19:14:34Z",
-            "open_issues": 1652,
+            "open_issues": 1657,
             "owner": "vim",
             "repo": "vim",
-            "stars": 41159,
+            "stars": 41157,
             "topics": [
               "c",
               "cross-platform",
@@ -2617,10 +2617,10 @@
             "language": "Vim Script",
             "license": "Vim",
             "last_commit": "2026-10-07T19:14:34Z",
-            "open_issues": 1652,
+            "open_issues": 1657,
             "owner": "vim",
             "repo": "vim",
-            "stars": 41159,
+            "stars": 41157,
             "topics": [
               "c",
               "cross-platform",
@@ -2643,10 +2643,10 @@
             "language": "Vim Script",
             "license": "Vim",
             "last_commit": "2026-10-07T19:14:34Z",
-            "open_issues": 1652,
+            "open_issues": 1657,
             "owner": "vim",
             "repo": "vim",
-            "stars": 41159,
+            "stars": 41157,
             "topics": [
               "c",
               "cross-platform",
@@ -2669,10 +2669,10 @@
             "language": "Vim Script",
             "license": "Vim",
             "last_commit": "2026-10-07T19:14:34Z",
-            "open_issues": 1652,
+            "open_issues": 1657,
             "owner": "vim",
             "repo": "vim",
-            "stars": 41159,
+            "stars": 41157,
             "topics": [
               "c",
               "cross-platform",
@@ -2695,10 +2695,10 @@
             "language": "Vim Script",
             "license": "Vim",
             "last_commit": "2026-10-07T19:14:34Z",
-            "open_issues": 1652,
+            "open_issues": 1657,
             "owner": "vim",
             "repo": "vim",
-            "stars": 41159,
+            "stars": 41157,
             "topics": [
               "c",
               "cross-platform",
@@ -2721,10 +2721,10 @@
             "language": "Vim Script",
             "license": "Vim",
             "last_commit": "2026-10-07T19:14:34Z",
-            "open_issues": 1652,
+            "open_issues": 1657,
             "owner": "vim",
             "repo": "vim",
-            "stars": 41159,
+            "stars": 41157,
             "topics": [
               "c",
               "cross-platform",
@@ -2747,10 +2747,10 @@
             "language": "Vim Script",
             "license": "Vim",
             "last_commit": "2026-10-07T19:14:34Z",
-            "open_issues": 1652,
+            "open_issues": 1657,
             "owner": "vim",
             "repo": "vim",
-            "stars": 41159,
+            "stars": 41157,
             "topics": [
               "c",
               "cross-platform",
@@ -2849,7 +2849,7 @@
             "open_issues": 1,
             "owner": "neoclide",
             "repo": "vimls-go",
-            "stars": 20,
+            "stars": 21,
             "topics": []
           },
           "first_seen": "2026-10-04T06:38:33.647Z"
@@ -3019,7 +3019,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T07:01:39.370Z",
+    "last_updated": "2026-10-09T07:09:51.665Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collection of awesome vim9script plugins.",
