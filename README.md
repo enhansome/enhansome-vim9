@@ -42,6 +42,7 @@ To submit a new plugin read [CONTRIBUTING.md](./CONTRIBUTING.md) first.
 
 |                                                                                                                                  |                                                                                                |      |
 | -------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- | ---- |
+| [dfhx5694/akari.vim](https://github.com/dfhx5694/akari.vim) ⭐ 1 \| 🐛 0 \| 🌐 Vim Script \| 📅 2026-10-18                        | LLM plugin for Vim9                                                                            | ⭐1   |
 | [DanBradbury/copilot-chat.vim](https://github.com/DanBradbury/copilot-chat.vim) ⭐ 134 \| 🐛 25 \| 🌐 Vim Script \| 📅 2026-01-17 | Copilot Chat for Vim                                                                           | ⭐134 |
 | [ShayHill/vim9-agent-context](https://github.com/ShayHill/vim9-agent-context) ⭐ 0 \| 🐛 0 \| 🌐 Vim Script \| 📅 2026-09-19      | Yank e.g., 'path/to/file#L24L66' to the system clipboard.                                      | ⭐0   |
 | [greeschenko/vim9-ollama](https://github.com/greeschenko/vim9-ollama) ⭐ 15 \| 🐛 2 \| 🌐 Vim Script \| 📅 2026-03-14             | Local driven AI assistent plugin written in the cutting-edge Vim9 script and powered by ollama | ⭐15  |
@@ -60,7 +61,7 @@ To submit a new plugin read [CONTRIBUTING.md](./CONTRIBUTING.md) first.
 |                                                                                                                          |                                                                                                                                                                                                                                                   |     |
 | ------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --- |
 | [hahdookin/miniterm.vim](https://github.com/hahdookin/miniterm.vim) ⭐ 24 \| 🐛 2 \| 🌐 Vim Script \| 📅 2024-03-24       | Simple Vim9 toggle-terminal manager                                                                                                                                                                                                               | ⭐24 |
-| [habamax/vim-shout](https://github.com/habamax/vim-shout) ⭐ 30 \| 🐛 4 \| 🌐 Vim Script \| 📅 2025-09-12                 | Run and Capture Shell Command Output in Vim                                                                                                                                                                                                       | ⭐31 |
+| [habamax/vim-shout](https://github.com/habamax/vim-shout) ⭐ 30 \| 🐛 4 \| 🌐 Vim Script \| 📅 2025-09-12                 | Run and Capture Shell Command Output in Vim                                                                                                                                                                                                       | ⭐30 |
 | [ShayHill/vim9-scratchterm](https://github.com/ShayHill/vim9-scratchterm) ⭐ 12 \| 🐛 0 \| 🌐 Vim Script \| 📅 2025-08-26 | Define a command, ScratchTerm, that creates a new terminal buffer and marks it as a scratch buffer. This allows us to kill all scratch terminals in the current view with a single function.                                                      | ⭐12 |
 | [sevehub/vim9lua](https://github.com/sevehub/vim9lua) ⭐ 0 \| 🐛 0 \| 🌐 Vim Script \| 📅 2025-08-18                      | This Vim9Script plugin allows users to execute the contents of the current buffer as a Lua script using Windows PowerShell. It provides a way to test and run Lua code directly from Vim, enhancing the development workflow for Lua programmers. | ⭐0  |
 
@@ -82,7 +83,7 @@ To submit a new plugin read [CONTRIBUTING.md](./CONTRIBUTING.md) first.
 | [ubaldot/vim-highlight-yanked](https://github.com/ubaldot/vim-highlight-yanked) ⭐ 14 \| 🐛 0 \| 🌐 Vim Script \| 📅 2025-08-25 | Highlight yanked text for Vim9 in less than 100 lines of code.         | ⭐14 |
 | [ubaldot/vim-op-surround](https://github.com/ubaldot/vim-op-surround) ⭐ 6 \| 🐛 0 \| 🌐 Vim Script \| 📅 2026-07-31            | Vim9 surround!                                                         | ⭐6  |
 | [ubaldot/vim-writegood](https://github.com/ubaldot/vim-writegood) ⭐ 2 \| 🐛 1 \| 🌐 Vim Script \| 📅 2023-05-31                | Check your English prose in Vim.                                       | ⭐2  |
-| [nda-cunh/vim9-autopairs](https://github.com/nda-cunh/vim9-autopairs) ⭐ 4 \| 🐛 0 \| 🌐 Vim Script \| 📅 2026-05-05            | Vim9 auto pairs plugin                                                 | ⭐3  |
+| [nda-cunh/vim9-autopairs](https://github.com/nda-cunh/vim9-autopairs) ⭐ 4 \| 🐛 0 \| 🌐 Vim Script \| 📅 2026-05-05            | Vim9 auto pairs plugin                                                 | ⭐4  |
 | [Coacher/vim9-buckler](https://github.com/Coacher/vim9-buckler) ⭐ 4 \| 🐛 1 \| 🌐 Vim Script \| 📅 2026-10-17                  | Vim9 plugin that maintains a consistent yank history through registers | ⭐4  |
 | [Coacher/vim9-cutlass](https://github.com/Coacher/vim9-cutlass) ⭐ 3 \| 🐛 0 \| 🌐 Vim Script \| 📅 2026-10-18                  | Vim9 plugin that adds a 'cut' operation separate from 'delete'         | ⭐3  |
 | [ShayHill/vim9-socialfmt](https://github.com/ShayHill/vim9-socialfmt) ⭐ 1 \| 🐛 0 \| 🌐 Vim Script \| 📅 2026-04-14            | Emulate formatted text for LinkedIn, X, Facebook, and more.            | ⭐1  |
@@ -103,7 +104,7 @@ To submit a new plugin read [CONTRIBUTING.md](./CONTRIBUTING.md) first.
 
 |                                                                                                                       |                                                                                     |      |
 | --------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- | ---- |
-| [vim-fuzzbox/fuzzbox.vim](https://github.com/vim-fuzzbox/fuzzbox.vim) ⭐ 163 \| 🐛 3 \| 🌐 Vim Script \| 📅 2026-10-17 | Modern fuzzy finder for Vim with minimal dependencies                               | ⭐164 |
+| [vim-fuzzbox/fuzzbox.vim](https://github.com/vim-fuzzbox/fuzzbox.vim) ⭐ 164 \| 🐛 3 \| 🌐 Vim Script \| 📅 2026-10-18 | Modern fuzzy finder for Vim with minimal dependencies                               | ⭐163 |
 | [hahdookin/minifuzzy.vim](https://github.com/hahdookin/minifuzzy.vim) ⭐ 12 \| 🐛 1 \| 🌐 Vim Script \| 📅 2024-12-09  | Simple Vim9 fuzzy finder wrapper utilizing Vim9's built-in fuzzy finding capability | ⭐12  |
 | [girishji/scope.vim](https://github.com/girishji/scope.vim) ⭐ 89 \| 🐛 3 \| 🌐 Vim Script \| 📅 2026-05-04            | Minimal, fast, and extensible fuzzy finder.                                         | ⭐89  |
 | [bfrg/vim-fzy](https://github.com/bfrg/vim-fzy) ⭐ 17 \| 🐛 0 \| 🌐 Vim Script \| 📅 2023-12-24                        | Run fzy asynchronously in a Vim (popup) terminal-window                             | ⭐17  |
@@ -149,7 +150,7 @@ To submit a new plugin read [CONTRIBUTING.md](./CONTRIBUTING.md) first.
 | [bfrg/vim-jqplay](https://github.com/bfrg/vim-jqplay) ⭐ 125 \| 🐛 2 \| 🌐 Vim Script \| 📅 2024-03-05                             | Run jq interactively in Vim                                                | ⭐125 |
 | [ubaldot/vim-manim](https://github.com/ubaldot/vim-manim) ⭐ 6 \| 🐛 2 \| 🌐 Vim Script \| 📅 2025-08-25                           | Render your manim-ations from Vim.                                         | ⭐6   |
 | [ubaldot/vim-microdebugger](https://github.com/ubaldot/vim-microdebugger) ⭐ 6 \| 🐛 3 \| 🌐 Vim Script \| 📅 2025-08-25           | A tiny plugin on top of Termdebug for remote debugging (docker, MCUs, etc) | ⭐6   |
-| [ubaldot/vim-replica](https://github.com/ubaldot/vim-replica) ⭐ 31 \| 🐛 2 \| 🌐 Vim Script \| 📅 2026-09-26                      | The ultimate REPL!                                                         | ⭐32  |
+| [ubaldot/vim-replica](https://github.com/ubaldot/vim-replica) ⭐ 31 \| 🐛 2 \| 🌐 Vim Script \| 📅 2026-09-26                      | The ultimate REPL!                                                         | ⭐31  |
 | [mao-yining/vim-signify](https://codeberg.org/mao-yining/vim-signify)                                                             | ➕ Show a diff using Vim its sign column.                                   | ⭐1   |
 | [wolandark/vimdict](https://github.com/wolandark/vimdict) ⭐ 4 \| 🐛 0 \| 🌐 Vim Script \| 📅 2024-06-23                           | A Simple Wrapper Over The Dict CLI Utility For Vim9                        | ⭐4   |
 
@@ -158,7 +159,7 @@ To submit a new plugin read [CONTRIBUTING.md](./CONTRIBUTING.md) first.
 |                                                                                                                            |                                                                    |      |
 | -------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ | ---- |
 | [DanielViberg/lsp](https://github.com/DanielViberg/lsp) ⭐ 2 \| 🐛 1 \| 🌐 Vim Script \| 📅 2026-08-29                      | A lightweight, pure vim9script lsp client                          | ⭐2   |
-| [yegappan/lsp](https://github.com/yegappan/lsp/tree/main) ⭐ 789 \| 🐛 113 \| 🌐 Vim Script \| 📅 2026-10-15                | Language Server Protocol (LSP) plugin for Vim9                     | ⭐789 |
+| [yegappan/lsp](https://github.com/yegappan/lsp/tree/main) ⭐ 790 \| 🐛 113 \| 🌐 Vim Script \| 📅 2026-10-15                | Language Server Protocol (LSP) plugin for Vim9                     | ⭐789 |
 | [h-east/lsp.vim](https://github.com/h-east/lsp.vim) ⭐ 10 \| 🐛 1 \| 🌐 Vim Script \| 📅 2026-10-13                         | A Language Server Protocol client for Vim, written in Vim9 script. | ⭐10  |
 | [creativenull/vim-lspclient](https://github.com/creativenull/vim-lspclient) ⭐ 18 \| 🐛 0 \| 🌐 Vim Script \| 📅 2022-09-01 | A highly experimental lsp client for vim. Written in vim9script.   | ⭐18  |
 | [saccarosium/yegappan-lsp-settings](https://github.com/saccarosium/yegappan-lsp-settings) ⚠️ Archived                      | Quickstart configs for yeggapan lsp client                         | ⭐4   |
@@ -200,7 +201,7 @@ To submit a new plugin read [CONTRIBUTING.md](./CONTRIBUTING.md) first.
 | ------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------ | ---- |
 | [girishji/easyjump.vim](https://github.com/girishji/easyjump.vim) ⭐ 19 \| 🐛 0 \| 🌐 Vim Script \| 📅 2024-06-06    | The Vim motion you've always wanted.             | ⭐19  |
 | [girishji/fFtT.vim](https://github.com/girishji/fFtT.vim) ⭐ 10 \| 🐛 1 \| 🌐 Vim Script \| 📅 2024-06-06            | More accurate f, F, t, T navigation in Vim.      | ⭐10  |
-| [monkoose/vim9-stargate](https://github.com/monkoose/vim9-stargate) ⭐ 124 \| 🐛 1 \| 🌐 Vim Script \| 📅 2024-01-17 | modern alternative to easymotion written in vim9 | ⭐123 |
+| [monkoose/vim9-stargate](https://github.com/monkoose/vim9-stargate) ⭐ 124 \| 🐛 1 \| 🌐 Vim Script \| 📅 2024-01-17 | modern alternative to easymotion written in vim9 | ⭐124 |
 
 ## Plugin Management
 
@@ -223,9 +224,9 @@ To submit a new plugin read [CONTRIBUTING.md](./CONTRIBUTING.md) first.
 | ------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- | ------ |
 | [senioria/lines9](https://github.com/senioria/lines9) ⭐ 2 \| 🐛 0 \| 🌐 Vim Script \| 📅 2025-01-16                       | A statusline/tabline plugin written in vim9script                                                  | ⭐2     |
 | [Bakudankun/qline.vim](https://github.com/Bakudankun/qline.vim) ⭐ 43 \| 🐛 1 \| 🌐 Vim Script \| 📅 2026-10-04            | The quick, fully-customizable status line plugin written in cutting-edge Vim9 script.              | ⭐43    |
-| [vim-airline/vim-airline](https://github.com/vim-airline/vim-airline) ⭐ 17,966 \| 🐛 38 \| 🌐 Vim Script \| 📅 2026-10-14 | lean & mean status/tabline for vim that's light as air                                             | ⭐17971 |
+| [vim-airline/vim-airline](https://github.com/vim-airline/vim-airline) ⭐ 17,966 \| 🐛 38 \| 🌐 Vim Script \| 📅 2026-10-14 | lean & mean status/tabline for vim that's light as air                                             | ⭐17966 |
 | [kennypete/vim-tene](https://github.com/kennypete/vim-tene) ⭐ 17 \| 🐛 0 \| 🌐 Vim Script \| 📅 2025-01-07                | Vim 9 - teRNARY STATUSLIne                                                                         | ⭐17    |
-| [ShayHill/vim9-limelight](https://github.com/ShayHill/vim9-limelight) ⭐ 10 \| 🐛 0 \| 🌐 Vim Script \| 📅 2026-07-01      | Shade unfocused windows. Give a bright statusline color for active windows *when splits are open*. | ⭐9     |
+| [ShayHill/vim9-limelight](https://github.com/ShayHill/vim9-limelight) ⭐ 10 \| 🐛 0 \| 🌐 Vim Script \| 📅 2026-07-01      | Shade unfocused windows. Give a bright statusline color for active windows *when splits are open*. | ⭐10    |
 
 ## UI
 
@@ -249,13 +250,13 @@ To submit a new plugin read [CONTRIBUTING.md](./CONTRIBUTING.md) first.
 
 |                                                                                                                                                               |                       |         |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------- | ------- |
-| [vim/.../pack/.../cfilter](https://github.com/vim/vim/tree/master/runtime/pack/dist/opt/cfilter) ⭐ 41,143 \| 🐛 1,721 \| 🌐 Vim Script \| 📅 2026-10-17       | :h package-cfilter    | **N/A** |
-| [vim/.../pack/.../comment](https://github.com/vim/vim/tree/master/runtime/pack/dist/opt/comment/) ⭐ 41,143 \| 🐛 1,721 \| 🌐 Vim Script \| 📅 2026-10-17      | :h package-comment    | **N/A** |
-| [vim/.../pack/.../helpcurwin](https://github.com/vim/vim/tree/master/runtime/pack/dist/opt/helpcurwin) ⭐ 41,143 \| 🐛 1,721 \| 🌐 Vim Script \| 📅 2026-10-17 | :h package-helpcurwin | **N/A** |
-| [vim/.../pack/.../helptoc](https://github.com/vim/vim/tree/master/runtime/pack/dist/opt/helptoc) ⭐ 41,143 \| 🐛 1,721 \| 🌐 Vim Script \| 📅 2026-10-17       | :h package-helptoc    | **N/A** |
-| [vim/.../pack/.../hlyank](https://github.com/vim/vim/tree/master/runtime/pack/dist/opt/hlyank/) ⭐ 41,143 \| 🐛 1,721 \| 🌐 Vim Script \| 📅 2026-10-17        | :h package-hlyank     | **N/A** |
-| [vim/.../pack/.../osc52](https://github.com/vim/vim/tree/master/runtime/pack/dist/opt/osc52) ⭐ 41,143 \| 🐛 1,721 \| 🌐 Vim Script \| 📅 2026-10-17           | :h package-osc52      | **N/A** |
-| [vim/.../pack/.../termdebug](https://github.com/vim/vim/tree/master/runtime/pack/dist/opt/termdebug) ⭐ 41,143 \| 🐛 1,721 \| 🌐 Vim Script \| 📅 2026-10-17   | :h package-termdebug  | **N/A** |
+| [vim/.../pack/.../cfilter](https://github.com/vim/vim/tree/master/runtime/pack/dist/opt/cfilter) ⭐ 41,144 \| 🐛 1,727 \| 🌐 Vim Script \| 📅 2026-10-18       | :h package-cfilter    | **N/A** |
+| [vim/.../pack/.../comment](https://github.com/vim/vim/tree/master/runtime/pack/dist/opt/comment/) ⭐ 41,144 \| 🐛 1,727 \| 🌐 Vim Script \| 📅 2026-10-18      | :h package-comment    | **N/A** |
+| [vim/.../pack/.../helpcurwin](https://github.com/vim/vim/tree/master/runtime/pack/dist/opt/helpcurwin) ⭐ 41,144 \| 🐛 1,727 \| 🌐 Vim Script \| 📅 2026-10-18 | :h package-helpcurwin | **N/A** |
+| [vim/.../pack/.../helptoc](https://github.com/vim/vim/tree/master/runtime/pack/dist/opt/helptoc) ⭐ 41,144 \| 🐛 1,727 \| 🌐 Vim Script \| 📅 2026-10-18       | :h package-helptoc    | **N/A** |
+| [vim/.../pack/.../hlyank](https://github.com/vim/vim/tree/master/runtime/pack/dist/opt/hlyank/) ⭐ 41,144 \| 🐛 1,727 \| 🌐 Vim Script \| 📅 2026-10-18        | :h package-hlyank     | **N/A** |
+| [vim/.../pack/.../osc52](https://github.com/vim/vim/tree/master/runtime/pack/dist/opt/osc52) ⭐ 41,144 \| 🐛 1,727 \| 🌐 Vim Script \| 📅 2026-10-18           | :h package-osc52      | **N/A** |
+| [vim/.../pack/.../termdebug](https://github.com/vim/vim/tree/master/runtime/pack/dist/opt/termdebug) ⭐ 41,144 \| 🐛 1,727 \| 🌐 Vim Script \| 📅 2026-10-18   | :h package-termdebug  | **N/A** |
 
 ## Vim9 Script
 
@@ -263,8 +264,8 @@ To submit a new plugin read [CONTRIBUTING.md](./CONTRIBUTING.md) first.
 | ---------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------- | --- |
 | [ubaldot/vim9-conversion-aid](https://github.com/ubaldot/vim9-conversion-aid) ⭐ 17 \| 🐛 0 \| 🌐 Vim Script \| 📅 2026-08-21 | A little help for upgrading your scripts to vim9 language. | ⭐17 |
 | [lacygoill/vim9asm](https://github.com/lacygoill/vim9asm) ⭐ 24 \| 🐛 3 \| 🌐 Vim Script \| 📅 2025-07-25                     | *No description provided.*                                 | ⭐24 |
-| [h-east/vim9ls](https://github.com/h-east/vim9ls) ⭐ 16 \| 🐛 1 \| 🌐 Vim Script \| 📅 2026-10-14                             | A language server for Vim script, run by Vim itself        | ⭐16 |
-| [neoclide/vimls-go](https://github.com/neoclide/vimls-go) ⭐ 22 \| 🐛 3 \| 🌐 Go \| 📅 2026-10-04                             | Vim script language server written in go                   | ⭐21 |
+| [h-east/vim9ls](https://github.com/h-east/vim9ls) ⭐ 17 \| 🐛 1 \| 🌐 Vim Script \| 📅 2026-10-14                             | A language server for Vim script, run by Vim itself        | ⭐16 |
+| [neoclide/vimls-go](https://github.com/neoclide/vimls-go) ⭐ 22 \| 🐛 3 \| 🌐 Go \| 📅 2026-10-04                             | Vim script language server written in go                   | ⭐22 |
 
 ## Vimrc
 
@@ -283,8 +284,8 @@ To submit a new plugin read [CONTRIBUTING.md](./CONTRIBUTING.md) first.
 
 |                                                                                                           |                                            |    |
 | --------------------------------------------------------------------------------------------------------- | ------------------------------------------ | -- |
-| [Galvarcus/bartleby](https://github.com/Galvarcus/bartleby) ⭐ 0 \| 🐛 4 \| 🌐 Vim Script \| 📅 2026-10-18 | A structured writing environment for Vim9. | ⭐0 |
+| [Galvarcus/bartleby](https://github.com/Galvarcus/bartleby) ⭐ 0 \| 🐛 1 \| 🌐 Vim Script \| 📅 2026-10-18 | A structured writing environment for Vim9. | ⭐0 |
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-19._
