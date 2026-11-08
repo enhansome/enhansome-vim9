@@ -42,7 +42,7 @@ To submit a new plugin read [CONTRIBUTING.md](./CONTRIBUTING.md) first.
 
 |                                                                                                                                  |                                                                                                |      |
 | -------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- | ---- |
-| [dfhx5694/akari.vim](https://github.com/dfhx5694/akari.vim) ⭐ 1 \| 🐛 0 \| 🌐 Vim Script \| 📅 2026-10-24                        | LLM plugin for Vim9                                                                            | ⭐1   |
+| [dfhx5694/akari.vim](https://github.com/dfhx5694/akari.vim) ⭐ 1 \| 🐛 0 \| 🌐 Vim Script \| 📅 2026-11-07                        | LLM plugin for Vim9                                                                            | ⭐1   |
 | [DanBradbury/copilot-chat.vim](https://github.com/DanBradbury/copilot-chat.vim) ⭐ 135 \| 🐛 26 \| 🌐 Vim Script \| 📅 2026-01-17 | Copilot Chat for Vim                                                                           | ⭐134 |
 | [ShayHill/vim9-agent-context](https://github.com/ShayHill/vim9-agent-context) ⭐ 0 \| 🐛 0 \| 🌐 Vim Script \| 📅 2026-09-19      | Yank e.g., 'path/to/file#L24L66' to the system clipboard.                                      | ⭐0   |
 | [greeschenko/vim9-ollama](https://github.com/greeschenko/vim9-ollama) ⭐ 15 \| 🐛 2 \| 🌐 Vim Script \| 📅 2026-03-14             | Local driven AI assistent plugin written in the cutting-edge Vim9 script and powered by ollama | ⭐15  |
@@ -104,7 +104,7 @@ To submit a new plugin read [CONTRIBUTING.md](./CONTRIBUTING.md) first.
 
 |                                                                                                                       |                                                                                     |      |
 | --------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- | ---- |
-| [vim-fuzzbox/fuzzbox.vim](https://github.com/vim-fuzzbox/fuzzbox.vim) ⭐ 164 \| 🐛 1 \| 🌐 Vim Script \| 📅 2026-11-06 | Modern fuzzy finder for Vim with minimal dependencies                               | ⭐163 |
+| [vim-fuzzbox/fuzzbox.vim](https://github.com/vim-fuzzbox/fuzzbox.vim) ⭐ 164 \| 🐛 1 \| 🌐 Vim Script \| 📅 2026-11-07 | Modern fuzzy finder for Vim with minimal dependencies                               | ⭐163 |
 | [hahdookin/minifuzzy.vim](https://github.com/hahdookin/minifuzzy.vim) ⭐ 12 \| 🐛 1 \| 🌐 Vim Script \| 📅 2024-12-09  | Simple Vim9 fuzzy finder wrapper utilizing Vim9's built-in fuzzy finding capability | ⭐12  |
 | [girishji/scope.vim](https://github.com/girishji/scope.vim) ⭐ 89 \| 🐛 3 \| 🌐 Vim Script \| 📅 2026-05-04            | Minimal, fast, and extensible fuzzy finder.                                         | ⭐89  |
 | [bfrg/vim-fzy](https://github.com/bfrg/vim-fzy) ⭐ 17 \| 🐛 0 \| 🌐 Vim Script \| 📅 2023-12-24                        | Run fzy asynchronously in a Vim (popup) terminal-window                             | ⭐17  |
@@ -250,13 +250,13 @@ To submit a new plugin read [CONTRIBUTING.md](./CONTRIBUTING.md) first.
 
 |                                                                                                                                                               |                       |         |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------- | ------- |
-| [vim/.../pack/.../cfilter](https://github.com/vim/vim/tree/master/runtime/pack/dist/opt/cfilter) ⭐ 41,192 \| 🐛 1,740 \| 🌐 Vim Script \| 📅 2026-11-05       | :h package-cfilter    | **N/A** |
-| [vim/.../pack/.../comment](https://github.com/vim/vim/tree/master/runtime/pack/dist/opt/comment/) ⭐ 41,192 \| 🐛 1,740 \| 🌐 Vim Script \| 📅 2026-11-05      | :h package-comment    | **N/A** |
-| [vim/.../pack/.../helpcurwin](https://github.com/vim/vim/tree/master/runtime/pack/dist/opt/helpcurwin) ⭐ 41,192 \| 🐛 1,740 \| 🌐 Vim Script \| 📅 2026-11-05 | :h package-helpcurwin | **N/A** |
-| [vim/.../pack/.../helptoc](https://github.com/vim/vim/tree/master/runtime/pack/dist/opt/helptoc) ⭐ 41,192 \| 🐛 1,740 \| 🌐 Vim Script \| 📅 2026-11-05       | :h package-helptoc    | **N/A** |
-| [vim/.../pack/.../hlyank](https://github.com/vim/vim/tree/master/runtime/pack/dist/opt/hlyank/) ⭐ 41,192 \| 🐛 1,740 \| 🌐 Vim Script \| 📅 2026-11-05        | :h package-hlyank     | **N/A** |
-| [vim/.../pack/.../osc52](https://github.com/vim/vim/tree/master/runtime/pack/dist/opt/osc52) ⭐ 41,192 \| 🐛 1,740 \| 🌐 Vim Script \| 📅 2026-11-05           | :h package-osc52      | **N/A** |
-| [vim/.../pack/.../termdebug](https://github.com/vim/vim/tree/master/runtime/pack/dist/opt/termdebug) ⭐ 41,192 \| 🐛 1,740 \| 🌐 Vim Script \| 📅 2026-11-05   | :h package-termdebug  | **N/A** |
+| [vim/.../pack/.../cfilter](https://github.com/vim/vim/tree/master/runtime/pack/dist/opt/cfilter) ⭐ 41,193 \| 🐛 1,773 \| 🌐 Vim Script \| 📅 2026-11-05       | :h package-cfilter    | **N/A** |
+| [vim/.../pack/.../comment](https://github.com/vim/vim/tree/master/runtime/pack/dist/opt/comment/) ⭐ 41,193 \| 🐛 1,773 \| 🌐 Vim Script \| 📅 2026-11-05      | :h package-comment    | **N/A** |
+| [vim/.../pack/.../helpcurwin](https://github.com/vim/vim/tree/master/runtime/pack/dist/opt/helpcurwin) ⭐ 41,193 \| 🐛 1,773 \| 🌐 Vim Script \| 📅 2026-11-05 | :h package-helpcurwin | **N/A** |
+| [vim/.../pack/.../helptoc](https://github.com/vim/vim/tree/master/runtime/pack/dist/opt/helptoc) ⭐ 41,193 \| 🐛 1,773 \| 🌐 Vim Script \| 📅 2026-11-05       | :h package-helptoc    | **N/A** |
+| [vim/.../pack/.../hlyank](https://github.com/vim/vim/tree/master/runtime/pack/dist/opt/hlyank/) ⭐ 41,193 \| 🐛 1,773 \| 🌐 Vim Script \| 📅 2026-11-05        | :h package-hlyank     | **N/A** |
+| [vim/.../pack/.../osc52](https://github.com/vim/vim/tree/master/runtime/pack/dist/opt/osc52) ⭐ 41,193 \| 🐛 1,773 \| 🌐 Vim Script \| 📅 2026-11-05           | :h package-osc52      | **N/A** |
+| [vim/.../pack/.../termdebug](https://github.com/vim/vim/tree/master/runtime/pack/dist/opt/termdebug) ⭐ 41,193 \| 🐛 1,773 \| 🌐 Vim Script \| 📅 2026-11-05   | :h package-termdebug  | **N/A** |
 
 ## Vim9 Script
 
@@ -284,8 +284,8 @@ To submit a new plugin read [CONTRIBUTING.md](./CONTRIBUTING.md) first.
 
 |                                                                                                           |                                            |    |
 | --------------------------------------------------------------------------------------------------------- | ------------------------------------------ | -- |
-| [Galvarcus/bartleby](https://github.com/Galvarcus/bartleby) ⭐ 0 \| 🐛 0 \| 🌐 Vim Script \| 📅 2026-11-01 | A structured writing environment for Vim9. | ⭐0 |
+| [Galvarcus/bartleby](https://github.com/Galvarcus/bartleby) ⭐ 0 \| 🐛 0 \| 🌐 Vim Script \| 📅 2026-11-08 | A structured writing environment for Vim9. | ⭐0 |
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-08._
