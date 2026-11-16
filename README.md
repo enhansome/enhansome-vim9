@@ -130,7 +130,7 @@ To submit a new plugin read [CONTRIBUTING.md](./CONTRIBUTING.md) first.
 
 |                                                                                                                                                      |                                                                                                                                                                         |     |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --- |
-| [ShayHill/article\_install\_vim\_in\_windows](https://github.com/ShayHill/article_install_vim_in_windows) ⭐ 21 \| 🐛 0 \| 🌐 Python \| 📅 2026-09-22 | This guide will start from a stock Windows 11 install and take you all the way to a Python development environment with completion, snippets, LSPs, debugging, AI, etc. | ⭐21 |
+| [ShayHill/article\_install\_vim\_in\_windows](https://github.com/ShayHill/article_install_vim_in_windows) ⭐ 20 \| 🐛 0 \| 🌐 Python \| 📅 2026-09-22 | This guide will start from a stock Windows 11 install and take you all the way to a Python development environment with completion, snippets, LSPs, debugging, AI, etc. | ⭐21 |
 | [yegappan/design-patterns](https://github.com/yegappan/design-patterns) ⭐ 12 \| 🐛 0 \| 🌐 Vim Script \| 📅 2026-02-18                               | Design patterns in Vim9script                                                                                                                                           | ⭐11 |
 
 ## Integrations
@@ -224,7 +224,7 @@ To submit a new plugin read [CONTRIBUTING.md](./CONTRIBUTING.md) first.
 | ------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- | ------ |
 | [senioria/lines9](https://github.com/senioria/lines9) ⭐ 2 \| 🐛 0 \| 🌐 Vim Script \| 📅 2025-01-16                       | A statusline/tabline plugin written in vim9script                                                  | ⭐2     |
 | [Bakudankun/qline.vim](https://github.com/Bakudankun/qline.vim) ⭐ 43 \| 🐛 1 \| 🌐 Vim Script \| 📅 2026-10-04            | The quick, fully-customizable status line plugin written in cutting-edge Vim9 script.              | ⭐43    |
-| [vim-airline/vim-airline](https://github.com/vim-airline/vim-airline) ⭐ 17,965 \| 🐛 40 \| 🌐 Vim Script \| 📅 2026-10-14 | lean & mean status/tabline for vim that's light as air                                             | ⭐17966 |
+| [vim-airline/vim-airline](https://github.com/vim-airline/vim-airline) ⭐ 17,966 \| 🐛 40 \| 🌐 Vim Script \| 📅 2026-10-14 | lean & mean status/tabline for vim that's light as air                                             | ⭐17966 |
 | [kennypete/vim-tene](https://github.com/kennypete/vim-tene) ⭐ 17 \| 🐛 0 \| 🌐 Vim Script \| 📅 2025-01-07                | Vim 9 - teRNARY STATUSLIne                                                                         | ⭐17    |
 | [ShayHill/vim9-limelight](https://github.com/ShayHill/vim9-limelight) ⭐ 10 \| 🐛 0 \| 🌐 Vim Script \| 📅 2026-07-01      | Shade unfocused windows. Give a bright statusline color for active windows *when splits are open*. | ⭐10    |
 
@@ -250,13 +250,13 @@ To submit a new plugin read [CONTRIBUTING.md](./CONTRIBUTING.md) first.
 
 |                                                                                                                                                               |                       |         |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------- | ------- |
-| [vim/.../pack/.../cfilter](https://github.com/vim/vim/tree/master/runtime/pack/dist/opt/cfilter) ⭐ 41,342 \| 🐛 1,792 \| 🌐 Vim Script \| 📅 2026-11-14       | :h package-cfilter    | **N/A** |
-| [vim/.../pack/.../comment](https://github.com/vim/vim/tree/master/runtime/pack/dist/opt/comment/) ⭐ 41,342 \| 🐛 1,792 \| 🌐 Vim Script \| 📅 2026-11-14      | :h package-comment    | **N/A** |
-| [vim/.../pack/.../helpcurwin](https://github.com/vim/vim/tree/master/runtime/pack/dist/opt/helpcurwin) ⭐ 41,342 \| 🐛 1,792 \| 🌐 Vim Script \| 📅 2026-11-14 | :h package-helpcurwin | **N/A** |
-| [vim/.../pack/.../helptoc](https://github.com/vim/vim/tree/master/runtime/pack/dist/opt/helptoc) ⭐ 41,342 \| 🐛 1,792 \| 🌐 Vim Script \| 📅 2026-11-14       | :h package-helptoc    | **N/A** |
-| [vim/.../pack/.../hlyank](https://github.com/vim/vim/tree/master/runtime/pack/dist/opt/hlyank/) ⭐ 41,342 \| 🐛 1,792 \| 🌐 Vim Script \| 📅 2026-11-14        | :h package-hlyank     | **N/A** |
-| [vim/.../pack/.../osc52](https://github.com/vim/vim/tree/master/runtime/pack/dist/opt/osc52) ⭐ 41,342 \| 🐛 1,792 \| 🌐 Vim Script \| 📅 2026-11-14           | :h package-osc52      | **N/A** |
-| [vim/.../pack/.../termdebug](https://github.com/vim/vim/tree/master/runtime/pack/dist/opt/termdebug) ⭐ 41,342 \| 🐛 1,792 \| 🌐 Vim Script \| 📅 2026-11-14   | :h package-termdebug  | **N/A** |
+| [vim/.../pack/.../cfilter](https://github.com/vim/vim/tree/master/runtime/pack/dist/opt/cfilter) ⭐ 41,328 \| 🐛 1,811 \| 🌐 Vim Script \| 📅 2026-11-15       | :h package-cfilter    | **N/A** |
+| [vim/.../pack/.../comment](https://github.com/vim/vim/tree/master/runtime/pack/dist/opt/comment/) ⭐ 41,328 \| 🐛 1,811 \| 🌐 Vim Script \| 📅 2026-11-15      | :h package-comment    | **N/A** |
+| [vim/.../pack/.../helpcurwin](https://github.com/vim/vim/tree/master/runtime/pack/dist/opt/helpcurwin) ⭐ 41,328 \| 🐛 1,811 \| 🌐 Vim Script \| 📅 2026-11-15 | :h package-helpcurwin | **N/A** |
+| [vim/.../pack/.../helptoc](https://github.com/vim/vim/tree/master/runtime/pack/dist/opt/helptoc) ⭐ 41,328 \| 🐛 1,811 \| 🌐 Vim Script \| 📅 2026-11-15       | :h package-helptoc    | **N/A** |
+| [vim/.../pack/.../hlyank](https://github.com/vim/vim/tree/master/runtime/pack/dist/opt/hlyank/) ⭐ 41,328 \| 🐛 1,811 \| 🌐 Vim Script \| 📅 2026-11-15        | :h package-hlyank     | **N/A** |
+| [vim/.../pack/.../osc52](https://github.com/vim/vim/tree/master/runtime/pack/dist/opt/osc52) ⭐ 41,328 \| 🐛 1,811 \| 🌐 Vim Script \| 📅 2026-11-15           | :h package-osc52      | **N/A** |
+| [vim/.../pack/.../termdebug](https://github.com/vim/vim/tree/master/runtime/pack/dist/opt/termdebug) ⭐ 41,328 \| 🐛 1,811 \| 🌐 Vim Script \| 📅 2026-11-15   | :h package-termdebug  | **N/A** |
 
 ## Vim9 Script
 
@@ -288,4 +288,4 @@ To submit a new plugin read [CONTRIBUTING.md](./CONTRIBUTING.md) first.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-16._
