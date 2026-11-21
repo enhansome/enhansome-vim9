@@ -250,13 +250,13 @@ To submit a new plugin read [CONTRIBUTING.md](./CONTRIBUTING.md) first.
 
 |                                                                                                                                                               |                       |         |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------- | ------- |
-| [vim/.../pack/.../cfilter](https://github.com/vim/vim/tree/master/runtime/pack/dist/opt/cfilter) ⭐ 41,322 \| 🐛 1,796 \| 🌐 Vim Script \| 📅 2026-11-18       | :h package-cfilter    | **N/A** |
-| [vim/.../pack/.../comment](https://github.com/vim/vim/tree/master/runtime/pack/dist/opt/comment/) ⭐ 41,322 \| 🐛 1,796 \| 🌐 Vim Script \| 📅 2026-11-18      | :h package-comment    | **N/A** |
-| [vim/.../pack/.../helpcurwin](https://github.com/vim/vim/tree/master/runtime/pack/dist/opt/helpcurwin) ⭐ 41,322 \| 🐛 1,796 \| 🌐 Vim Script \| 📅 2026-11-18 | :h package-helpcurwin | **N/A** |
-| [vim/.../pack/.../helptoc](https://github.com/vim/vim/tree/master/runtime/pack/dist/opt/helptoc) ⭐ 41,322 \| 🐛 1,796 \| 🌐 Vim Script \| 📅 2026-11-18       | :h package-helptoc    | **N/A** |
-| [vim/.../pack/.../hlyank](https://github.com/vim/vim/tree/master/runtime/pack/dist/opt/hlyank/) ⭐ 41,322 \| 🐛 1,796 \| 🌐 Vim Script \| 📅 2026-11-18        | :h package-hlyank     | **N/A** |
-| [vim/.../pack/.../osc52](https://github.com/vim/vim/tree/master/runtime/pack/dist/opt/osc52) ⭐ 41,322 \| 🐛 1,796 \| 🌐 Vim Script \| 📅 2026-11-18           | :h package-osc52      | **N/A** |
-| [vim/.../pack/.../termdebug](https://github.com/vim/vim/tree/master/runtime/pack/dist/opt/termdebug) ⭐ 41,322 \| 🐛 1,796 \| 🌐 Vim Script \| 📅 2026-11-18   | :h package-termdebug  | **N/A** |
+| [vim/.../pack/.../cfilter](https://github.com/vim/vim/tree/master/runtime/pack/dist/opt/cfilter) ⭐ 41,328 \| 🐛 1,803 \| 🌐 Vim Script \| 📅 2026-11-21       | :h package-cfilter    | **N/A** |
+| [vim/.../pack/.../comment](https://github.com/vim/vim/tree/master/runtime/pack/dist/opt/comment/) ⭐ 41,328 \| 🐛 1,803 \| 🌐 Vim Script \| 📅 2026-11-21      | :h package-comment    | **N/A** |
+| [vim/.../pack/.../helpcurwin](https://github.com/vim/vim/tree/master/runtime/pack/dist/opt/helpcurwin) ⭐ 41,328 \| 🐛 1,803 \| 🌐 Vim Script \| 📅 2026-11-21 | :h package-helpcurwin | **N/A** |
+| [vim/.../pack/.../helptoc](https://github.com/vim/vim/tree/master/runtime/pack/dist/opt/helptoc) ⭐ 41,328 \| 🐛 1,803 \| 🌐 Vim Script \| 📅 2026-11-21       | :h package-helptoc    | **N/A** |
+| [vim/.../pack/.../hlyank](https://github.com/vim/vim/tree/master/runtime/pack/dist/opt/hlyank/) ⭐ 41,328 \| 🐛 1,803 \| 🌐 Vim Script \| 📅 2026-11-21        | :h package-hlyank     | **N/A** |
+| [vim/.../pack/.../osc52](https://github.com/vim/vim/tree/master/runtime/pack/dist/opt/osc52) ⭐ 41,328 \| 🐛 1,803 \| 🌐 Vim Script \| 📅 2026-11-21           | :h package-osc52      | **N/A** |
+| [vim/.../pack/.../termdebug](https://github.com/vim/vim/tree/master/runtime/pack/dist/opt/termdebug) ⭐ 41,328 \| 🐛 1,803 \| 🌐 Vim Script \| 📅 2026-11-21   | :h package-termdebug  | **N/A** |
 
 ## Vim9 Script
 
@@ -265,7 +265,7 @@ To submit a new plugin read [CONTRIBUTING.md](./CONTRIBUTING.md) first.
 | [ubaldot/vim9-conversion-aid](https://github.com/ubaldot/vim9-conversion-aid) ⭐ 17 \| 🐛 0 \| 🌐 Vim Script \| 📅 2026-08-21 | A little help for upgrading your scripts to vim9 language. | ⭐17 |
 | [lacygoill/vim9asm](https://github.com/lacygoill/vim9asm) ⭐ 24 \| 🐛 3 \| 🌐 Vim Script \| 📅 2025-07-25                     | *No description provided.*                                 | ⭐24 |
 | [h-east/vim9ls](https://github.com/h-east/vim9ls) ⭐ 18 \| 🐛 1 \| 🌐 Vim Script \| 📅 2026-11-17                             | A language server for Vim script, run by Vim itself        | ⭐16 |
-| [neoclide/vimls-go](https://github.com/neoclide/vimls-go) ⭐ 24 \| 🐛 6 \| 🌐 Go \| 📅 2026-10-25                             | Vim script language server written in go                   | ⭐22 |
+| [neoclide/vimls-go](https://github.com/neoclide/vimls-go) ⭐ 25 \| 🐛 7 \| 🌐 Go \| 📅 2026-10-25                             | Vim script language server written in go                   | ⭐22 |
 
 ## Vimrc
 
@@ -288,4 +288,4 @@ To submit a new plugin read [CONTRIBUTING.md](./CONTRIBUTING.md) first.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-21._
